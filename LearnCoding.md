@@ -1,8 +1,8 @@
 ## Learn to code for free
 ### General
-* [Codecademy](www.codecademy.com)
-* [Udemy](www.udemy.com)
-* [freeCodeCamp](www.freecodecamp.org)
+* [Codecademy](https://www.codecademy.com/)
+* [Udemy](https://www.udemy.com/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
 * [Coursera](www.coursera.org)
 * [edX](www.edx.org)
 * [Codewars](www.codewars.com)
