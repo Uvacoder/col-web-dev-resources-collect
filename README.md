@@ -1,4 +1,11 @@
 ## Learn to code for free
+### Contents
+[General](#General)
+[Youtube Channels](#Youtube_Channels)
+[challenge](#Coding)
+
+---
+
 ### General
 * [RackerRank](https://www.hackerrank.com/)
 * [Udemy](https://www.udemy.com/)
@@ -23,16 +30,18 @@
 * [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * [Edabit](https://edabit.com/)
 
-## Youtube Channels
+---
+
+## Youtube_Channels
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - Web development
 * [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
 * [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
-* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, Technology and Motivation
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, technology and motivation
 * [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Profession, programming and technology
 * [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Programming and technology
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Programming JavaScript, AngularJS, Grunt, Bower, Jasmine and much more
-* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology Education Platform
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology education platform
 * [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web development and clean code
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) - General programming
 * [Space Devs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ) - Software development
@@ -41,6 +50,8 @@
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Programming and technology open source community
 * [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/featured) - Brazilian community of Node.js 
 * [Willian Justen Cursos](https://www.youtube.com/user/willjusten) - Web development
+
+---
 
 ## Coding challenge: learn by doing
 * #### [RackerRank](https://www.hackerrank.com/)
