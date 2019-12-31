@@ -1,8 +1,8 @@
 ## Learn to code for free
 ### Contents
-[General](#General)
-[Youtube Channels](#Youtube_Channels)
-[challenge](#Coding)
+- [General](#General)
+- [Youtube Channels](#Youtube_Channels)
+- [challenge](#Coding challenge: learn by doing)
 
 ---
 
