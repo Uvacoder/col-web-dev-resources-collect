@@ -78,4 +78,12 @@
     
 * #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+    
+---
 
+## Blogs
+* 🆓 [David Walsh](https://davidwalsh.name/) - JavaScript, Node.js, JQuery, React.js and more...
+* 🆓 [SitePoint](https://www.sitepoint.com/blog/) - Programming, web development, entrepreneurship and more...
+* 🆓 [Tuts+](https://tutsplus.com/) - Free programming tutorials and ebooks
+* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) - Programming and development/design blog
+* 🆓 [CSS-Tricks](https://css-tricks.com/) - Web develpment blog
