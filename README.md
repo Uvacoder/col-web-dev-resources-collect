@@ -64,6 +64,9 @@
 * #### 🆓 [Firecode.io](https://www.firecode.io/)
     - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
     
+* #### [LeetCode](https://leetcode.com/)
+    - Level up your coding skills.
+    
 * #### 🆓 [Edabit](https://edabit.com/)
     - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
     
