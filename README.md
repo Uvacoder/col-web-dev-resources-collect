@@ -9,6 +9,7 @@
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
 * [Codewars](https://www.codewars.com/)
+* [Launch School Open Book Shelf](https://launchschool.com/books)
 * [GA Dash](https://dash.generalassemb.ly/)
 * [Codecademy](https://www.codecademy.com/)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -21,8 +22,25 @@
 * [W3Schools](https://www.w3schools.com/)
 * [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * [Edabit](https://edabit.com/)
-* [Launch School Open Book Shelf](https://launchschool.com/books)
 
+## Youtube Channels
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - web-development
+* [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
+* [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
+* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, Technology and Motivation
+* [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Profession, programming and technology
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Programming and technology
+* [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Programming JavaScript, AngularJS, Grunt, Bower, Jasmine and much more
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology Education Platform
+* [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web-development and clean code
+* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) - General programming
+* [Space Devs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ) - Software development
+* [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA/featured) - Web development
+* [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Mobile Technology
+* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) - Programming and technology open source community
+* [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/featured) - Brazilian community of Node.js 
+* [Willian Justen Cursos](https://www.youtube.com/user/willjusten) - Web development
 
 ## Free code camp challenge
 * #### [RackerRank](https://www.hackerrank.com/)
