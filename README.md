@@ -54,15 +54,15 @@
 ---
 
 ## Coding challenge: learn by doing
-* #### [HackerRank](https://www.hackerrank.com/)
+* #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
-* #### [Edabit](https://edabit.com/)
+* #### 🆓 [Edabit](https://edabit.com/)
     - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
-* #### [RealDev](https://real.dev)
+* #### 🆓 [RealDev](https://real.dev)
     - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
-* #### [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+* #### 🆓 [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
     - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
-* #### [Exercism.io](https://exercism.io/) 🆓
+* #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
-* #### [Codewars](https://www.codewars.com/) 🆓
+* #### 🆓 [Codewars](https://www.codewars.com/) 
     - Achieve code mastery through challenge
