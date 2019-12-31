@@ -24,7 +24,7 @@
 * [Edabit](https://edabit.com/)
 
 ## Youtube Channels
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - web-development
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - Web development
 * [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
 * [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
@@ -33,7 +33,7 @@
 * [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Programming and technology
 * [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Programming JavaScript, AngularJS, Grunt, Bower, Jasmine and much more
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology Education Platform
-* [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web-development and clean code
+* [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web development and clean code
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh) - General programming
 * [Space Devs](https://www.youtube.com/channel/UCedHFDY78egBPEJXL2d8OiQ) - Software development
 * [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA/featured) - Web development
