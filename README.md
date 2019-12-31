@@ -3,6 +3,7 @@
 - [General](#general)
 - [Youtube Channels](#youtube-channels)
 - [Challenge](#coding-challenge-learn-by-doing)
+- [Blogs](#blogs)
 
 ---
 
@@ -32,7 +33,7 @@
 
 ---
 
-## Youtube Channels
+### Youtube Channels
 * 🆓 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - Web development
 * 🆓 [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
 * 🆓 [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
@@ -53,7 +54,7 @@
 
 ---
 
-## Coding challenge: learn by doing
+### Coding challenge: learn by doing
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
@@ -81,7 +82,7 @@
     
 ---
 
-## Blogs
+### Blogs
 * 🆓 [David Walsh](https://davidwalsh.name/) - JavaScript, Node.js, JQuery, React.js and more...
 * 🆓 [SitePoint](https://www.sitepoint.com/blog/) - Programming, web development, entrepreneurship and more...
 * 🆓 [Tuts+](https://tutsplus.com/) - Free programming tutorials and ebooks
