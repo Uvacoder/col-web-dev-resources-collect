@@ -1,20 +1,20 @@
 ## Learn to code for free
-* ### General
-* #### [Codecademy](www.codecademy.com)
-* #### [Udemy](www.udemy.com)
-* #### [freeCodeCamp](www.freecodecamp.org)
-* #### [Coursera](www.coursera.org)
-* #### [edX](www.edx.org)
-* #### [Codewars](www.codewars.com)
-* #### [GA Dash](dash.generalassemb.ly)
-* #### [Khan Academy](www.khanacademy.org)
-* #### [MIT OpenCourseware]()
-* #### [Udacity](www.udacity.com)
-* #### [The Odin Project](www.theodinproject.com)
-* #### [SoloLearn](www.sololearn.com)
-* #### [The Code Player](thecodeplayer.com)
-* #### [Bento.io](bento.io)
-* #### [Code.org](code.org)
+### General
+* ###### [Codecademy](www.codecademy.com)
+* ###### [Udemy](www.udemy.com)
+* ###### [freeCodeCamp](www.freecodecamp.org)
+* ###### [Coursera](www.coursera.org)
+* ###### [edX](www.edx.org)
+* ###### [Codewars](www.codewars.com)
+* ###### [GA Dash](dash.generalassemb.ly)
+* ###### [Khan Academy](www.khanacademy.org)
+* ###### [MIT OpenCourseware]()
+* ###### [Udacity](www.udacity.com)
+* ###### [The Odin Project](www.theodinproject.com)
+* ###### [SoloLearn](www.sololearn.com)
+* ###### [The Code Player](thecodeplayer.com)
+* ###### [Bento.io](bento.io)
+* ###### [Code.org](code.org)
 
 
 ## Free code camp challenge
