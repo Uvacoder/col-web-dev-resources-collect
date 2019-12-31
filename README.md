@@ -21,6 +21,7 @@
 * [W3Schools](https://www.w3schools.com/)
 * [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * [Edabit](https://edabit.com/)
+* [Launch School Open Book Shelf](https://launchschool.com/books)
 
 
 ## Free code camp challenge
