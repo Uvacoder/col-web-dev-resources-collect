@@ -51,3 +51,5 @@
     - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
 * #### [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
     - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
+* #### [Exercism.io](https://exercism.io/)
+    - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
