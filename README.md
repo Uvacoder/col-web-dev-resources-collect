@@ -64,7 +64,7 @@
 * #### 🆓 [Firecode.io](https://www.firecode.io/)
     - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
     
-* #### [LeetCode](https://leetcode.com/)
+* #### 🆓 [LeetCode](https://leetcode.com/)
     - Level up your coding skills.
     
 * #### 🆓 [Edabit](https://edabit.com/)
