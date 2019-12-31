@@ -1,8 +1,8 @@
 ## Learn to code for free
 ### Contents
-- [General](#General)
-- [Youtube Channels](#Youtube_Channels)
-- [challenge](#Coding challenge: learn by doing)
+- [General](#general)
+- [Youtube Channels](#youtube-channels)
+- [Challenge](#coding-challenge-learn-by-doing)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## Youtube_Channels
+## Youtube Channels
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - Web development
 * [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
 * [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
