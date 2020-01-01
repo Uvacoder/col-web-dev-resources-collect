@@ -4,6 +4,22 @@
 - [Youtube Channels](#youtube-channels)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
+- [Youtube WebDev](#youtube-htmlcssjavascript-webdev)
+- [Youtube Javascript](#youtube-javascript)
+- [Youtube ReactJS](#youtube-reactjs)
+- [Youtube AngularJS](#youtube-angularjs)
+- [Youtube NodeJS](#youtube-nodejs)
+- [Youtube Flutter](#youtube-flutter)
+- [Youtube Python](#youtube-python)
+- [Youtube PHP](#youtube-php)
+- [Youtube Ruby](#youtube-ruby)
+- [Youtube Swift](#youtube-swift)
+- [Youtube Erlang](#youtube-erlang)
+- [Youtube C++](#youtube-c)
+- [Youtube Perl](#youtube-perl)
+* [Youtube Clojure](#youtube-clojure)
+* [Youtube Java](#youtube-java)
+* [Youtube - Go](#youtube-go)
 
 ---
 
@@ -30,6 +46,44 @@
 * 🆓 [W3Schools](https://www.w3schools.com/)
 * 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * 🆓 [Edabit](https://edabit.com/)
+ 
+---
+
+### Coding challenge: learn by doing
+
+* #### 🆓 [HackerRank](https://www.hackerrank.com/)
+    - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
+    
+* #### 🆓 [Codewars](https://www.codewars.com/) 
+    - Achieve code mastery through challenge.
+    
+* #### 🆓 [Firecode.io](https://www.firecode.io/)
+    - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
+    
+* #### 🆓 [LeetCode](https://leetcode.com/)
+    - Level up your coding skills.
+    
+* #### 🆓 [Edabit](https://edabit.com/)
+    - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
+    
+* #### 🆓 [RealDev](https://real.dev)
+    - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
+    
+* #### 🆓 [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+    - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
+    
+* #### 🆓 [Exercism.io](https://exercism.io/) 
+    - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
+    
+---
+
+### Blogs
+* 🆓 [David Walsh](https://davidwalsh.name/) - JavaScript, Node.js, JQuery, React.js and more...
+* 🆓 [SitePoint](https://www.sitepoint.com/blog/) - Programming, web development, entrepreneurship and more...
+* 🆓 [Tuts+](https://tutsplus.com/) - Free programming tutorials and ebooks
+* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) - Programming and development/design blog
+* 🆓 [CSS-Tricks](https://css-tricks.com/) - Web develpment blog
+* 🆓 [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node, React, React Native (pt-BR)
 
 ---
 
@@ -137,41 +191,3 @@
 * 🆓 [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - Focused on the education of developers
 * 🆓 [Golang UK Conference](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
 * 🆓 [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - Programming in Go
- 
----
-
-### Coding challenge: learn by doing
-
-* #### 🆓 [HackerRank](https://www.hackerrank.com/)
-    - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
-    
-* #### 🆓 [Codewars](https://www.codewars.com/) 
-    - Achieve code mastery through challenge.
-    
-* #### 🆓 [Firecode.io](https://www.firecode.io/)
-    - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
-    
-* #### 🆓 [LeetCode](https://leetcode.com/)
-    - Level up your coding skills.
-    
-* #### 🆓 [Edabit](https://edabit.com/)
-    - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
-    
-* #### 🆓 [RealDev](https://real.dev)
-    - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
-    
-* #### 🆓 [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
-    - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
-    
-* #### 🆓 [Exercism.io](https://exercism.io/) 
-    - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
-    
----
-
-### Blogs
-* 🆓 [David Walsh](https://davidwalsh.name/) - JavaScript, Node.js, JQuery, React.js and more...
-* 🆓 [SitePoint](https://www.sitepoint.com/blog/) - Programming, web development, entrepreneurship and more...
-* 🆓 [Tuts+](https://tutsplus.com/) - Free programming tutorials and ebooks
-* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) - Programming and development/design blog
-* 🆓 [CSS-Tricks](https://css-tricks.com/) - Web develpment blog
-* 🆓 [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node, React, React Native (pt-BR)
