@@ -1,8 +1,8 @@
 ## Learn to code for free
 ### Contents
-- [Online Course Platforms](#general)
+- [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
-    - [Node.js](#node.js)
+    - [Node.js](#nodejs)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube-channels)
@@ -26,7 +26,7 @@
 
 ---
 
-### General
+### Online Course Platforms
 * 🆓 [HackerRank](https://www.hackerrank.com/) 
 * 🆓 [Udemy](https://www.udemy.com/) 💰
 * 🆓 [Hackr.io](https://hackr.io/)
