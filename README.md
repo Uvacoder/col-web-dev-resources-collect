@@ -17,9 +17,9 @@
 - [Youtube Erlang](#youtube-erlang)
 - [Youtube C++](#youtube-c)
 - [Youtube Perl](#youtube-perl)
-* [Youtube Clojure](#youtube-clojure)
-* [Youtube Java](#youtube-java)
-* [Youtube - Go](#youtube-go)
+- [Youtube Clojure](#youtube-clojure)
+- [Youtube Java](#youtube-java)
+- [Youtube - Go](#youtube-go)
 
 ---
 
