@@ -100,23 +100,15 @@
 * 🆓 [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
 
 #### HTML/CSS/JavaScript WebDev
-* 🆓 [Falsy Values](https://www.youtube.com/channel/UCsKxZqrZbV5R9EhHK8-aBzw/videos) - Recordings of Faly Values 2015
-* 🆓 [W3Conf](https://www.youtube.com/channel/UCown793uIQUwjcDPWium7IQ) - Recordings of W3Conf
 * 🆓 [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) - CSS-GRID
 * 🆓 [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
-* 🆓 [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ) - Recordings of SFHTML5
 * 🆓 [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/playlists) - Tutorials of Polymer, Magento, React, etc.
-* 🆓 [TXJS](https://www.youtube.com/channel/UCRd0HbCx7-6CyezTFFZ2r6g) - Recordings of TXJS 2015
-* 🆓 [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw) - Recordings of Nordic.js 2014/2015
 * 🆓 [Willian Justen Cursos](https://www.youtube.com/user/willjusten) - Web development (pt_BR)
 * 🆓 [CodersGuide](https://www.youtube.com/user/CodersGuide) - HTML/CSS, Phonegap, Bootstrap3 Tutorials 
 * 🆓 [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) - Vlogger, CSS and Hands on Web Development Tutorials
 * 🆓 [HTML Toronto](https://www.youtube.com/channel/UCgKWdxx8y7QbnNJJ52xTWQg) - Recordings of HTML Toronto
 * 🆓 [CSS-Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
-* 🆓 [Webdirections](https://www.youtube.com/channel/UCRx1y52pfeMwbuer9Vh2u-A) - Recordings of Webdirections Conference
-* 🆓 [Paul Irish](https://www.youtube.com/channel/UCf7pOCNs6qmbSsBz2xQBI4g) - Google Chrome Developer
 * 🆓 [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - JavaScript, PHP, SQL, HTML, CSS and more.
-* 🆓 [Nodevember](https://www.youtube.com/user/nodevember) - Recordings of Nodevember 2014/2015
 
 #### JavaScript
 * 🆓 [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web development and clean code (pt_BR)
