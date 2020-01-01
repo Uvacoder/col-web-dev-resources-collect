@@ -141,6 +141,7 @@
 * 🆓 [PyCon Ukraine](https://www.youtube.com/channel/UCJ2lwx-pNVF_EoWlHAmNNtQ)
 * 🆓 [PyCon Sweden](https://www.youtube.com/channel/UCH_2cuWzFMyCPvm75lJJ6wg)
 * 🆓 [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+* 🆓 [Python Brasil](https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw/)
 * 🆓 [MontrealPython](https://www.youtube.com/channel/UCIp8Kjw6GohAtFKlS_vnVlA)
 * 🆓 [PyCon Canada](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg)
 * 🆓 [PyCon Japan](https://www.youtube.com/channel/UCxNoKygeZIE1AwZ_NdUCkhQ)
