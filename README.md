@@ -102,6 +102,7 @@
 #### HTML/CSS/JavaScript WebDev
 * 🆓 [Falsy Values](https://www.youtube.com/channel/UCsKxZqrZbV5R9EhHK8-aBzw/videos) - Recordings of Faly Values 2015
 * 🆓 [W3Conf](https://www.youtube.com/channel/UCown793uIQUwjcDPWium7IQ) - Recordings of W3Conf
+* 🆓 [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) - CSS-GRID
 * 🆓 [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
 * 🆓 [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ) - Recordings of SFHTML5
 * 🆓 [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/playlists) - Tutorials of Polymer, Magento, React, etc.
