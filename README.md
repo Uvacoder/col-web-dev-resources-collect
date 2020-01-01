@@ -1,25 +1,26 @@
 ## Learn to code for free
 ### Contents
 - [Online Course Platforms](#general)
-- [Youtube Channels](#youtube-channels)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
-- [Youtube WebDev](#youtube-htmlcssjavascript-webdev)
-- [Youtube Javascript](#youtube-javascript)
-- [Youtube ReactJS](#youtube-reactjs)
-- [Youtube AngularJS](#youtube-angularjs)
-- [Youtube NodeJS](#youtube-nodejs)
-- [Youtube Flutter](#youtube-flutter)
-- [Youtube Python](#youtube-python)
-- [Youtube PHP](#youtube-php)
-- [Youtube Ruby](#youtube-ruby)
-- [Youtube Swift](#youtube-swift)
-- [Youtube Erlang](#youtube-erlang)
-- [Youtube C++](#youtube-c)
-- [Youtube Perl](#youtube-perl)
-- [Youtube Clojure](#youtube-clojure)
-- [Youtube Java](#youtube-java)
-- [Youtube - Go](#youtube-go)
+- [Youtube Channels](#youtube-channels)
+-- [Programming and Technology](#programming-and-technology)
+-- [WebDev](#htmlcssjavascript-webdev)
+-- [Javascript](#javascript)
+-- [ReactJS](#reactjs)
+-- [AngularJS](#angularjs)
+-- [NodeJS](#nodejs)
+-- [Flutter](#flutter)
+-- [Python](#python)
+-- [PHP](#php)
+-- [Ruby](#ruby)
+-- [Swift](#swift)
+-- [Erlang](#erlang)
+-- [C++](#c)
+-- [Perl](#perl)
+-- [Clojure](#clojure)
+-- [Java](#java)
+-- [Go](#go)
 
 ---
 
@@ -87,7 +88,8 @@
 
 ---
 
-### Youtube Channels Programming and Technology
+## Youtube Channels
+### Programming and Technology
 * 🆓 [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, technology and motivation (pt_BR)
 * 🆓 [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Profession, programming and technology (pt_BR)
 * 🆓 [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Programming and technology (pt_BR)
@@ -97,7 +99,7 @@
 * 🆓 [thenewboston](https://www.youtube.com/user/thenewboston) - General programming
 * 🆓 [Derek Banas](https://www.youtube.com/user/derekbanas) - General programming
 
-#### Youtube HTML/CSS/JavaScript WebDev
+#### HTML/CSS/JavaScript WebDev
 * 🆓 [Falsy Values](https://www.youtube.com/channel/UCsKxZqrZbV5R9EhHK8-aBzw/videos) - Recordings of Faly Values 2015
 * 🆓 [W3Conf](https://www.youtube.com/channel/UCown793uIQUwjcDPWium7IQ) - Recordings of W3Conf
 * 🆓 [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) - General programming
@@ -115,7 +117,7 @@
 * 🆓 [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg) - JavaScript, PHP, SQL, HTML, CSS and more.
 * 🆓 [Nodevember](https://www.youtube.com/user/nodevember) - Recordings of Nodevember 2014/2015
 
-#### Youtube JavaScript
+#### JavaScript
 * 🆓 [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg) - Programming, web development and clean code (pt_BR)
 * 🆓 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology education platform (pt_BR)
 * 🆓 [LearnCode.academy](https://www.youtube.com/user/learncodeacademy) - Web development
@@ -124,21 +126,21 @@
 * 🆓 [Funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Front-end Dev , Vlogs (mostly) about Javascript
 * 🆓 [Javascript Plante](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA) - Various Talks about Javascript
 
-#### Youtube ReactJS
+#### ReactJS
 * 🆓 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology education platform (pt_BR)
 * 🆓 [Emerson Broga](https://www.youtube.com/channel/UC29n3f6JhwqtD-kCJi_BwoA/featured) - Web development (pt_BR)
 
-#### Youtube AngularJS
+#### AngularJS
 * 🆓 [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) - Programming JavaScript, AngularJS, Grunt, Bower, Jasmine and much more (pt_BR)
 
-#### Youtube NodeJS
+#### NodeJS
 * 🆓 [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/featured) - Brazilian community of Node.js (pt_BR)
 * 🆓 [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) - Technology education platform (pt_BR) 
 
-#### Youtube Flutter
+#### Flutter
 * 🆓 [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Mobile Technology
 
-#### Youtube Python 
+#### Python 
 * 🆓 [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ)
 * 🆓 [PyCon 2014](https://www.youtube.com/channel/UCFDHJGm0IxH9uwcIHfR72yg)
 * 🆓 [EuroPython](https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q)
@@ -155,39 +157,39 @@
 * 🆓 [PyCon Germany](https://www.youtube.com/channel/UCji5VWDkGzuRenyRQZ9OpFQ)
 * 🆓 [Next Day Video](https://www.youtube.com/user/NextDayVideo/)
 
-#### Youtube PHP
+#### PHP
 * 🆓 [Codecourse](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) - PHPacademy/Codecourse
 
-#### Youtube Ruby 
+#### Ruby 
 * 🆓 [RailsConf 2016](https://www.youtube.com/playlist?list=PLE7tQUdRKcyZGYLfj6oRQWPxB6ijg1YsC)
 * 🆓 [RubyConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp)
 * 🆓 [RubyConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYajZ5aZlJf1g2u5Boq-jic)
 * 🆓 [RubyKaigi](https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A)
 
-#### Youtube Swift
+#### Swift
 * 🆓 [Swift Language](https://www.youtube.com/channel/UCml4lCH0xdl6Jm91RiPPIig) - Swift
 
-#### Youtube Erlang
+#### Erlang
  * 🆓 [Erlang Solutions](https://www.youtube.com/user/ErlangSolutions)
 
-#### Youtube C++
+#### C++
 * 🆓 [CppCon](https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg) - Recordings of CppCon
 * 🆓 [Meeting C++](https://www.youtube.com/user/MeetingCPP) - C++ Conference
 * 🆓 [BoostCon](https://www.youtube.com/user/BoostCon/videos) - Recordings of BoostCon
 
-#### Youtube Perl
+#### Perl
 * 🆓 [YAPC NA](https://www.youtube.com/user/yapcna) - Conference (North America)
 * 🆓 [YAPC EU](https://www.youtube.com/user/yapceu) - Conference (Europe)
 * 🆓 [YAPC Asia](https://www.youtube.com/user/yapcasia) - Conference (Asia)
 
-#### Youtube Clojure
+#### Clojure
 * 🆓 [ClojureTV](https://www.youtube.com/channel/UCaLlzGqiPE2QRj6sSOawJRg) - Clojure
 
-#### Youtube Java
+#### Java
 * 🆓 [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g) - JavaOne Conference
 * 🆓 [Curso em Video](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Java for beginners (pt_BR)
 
-#### Youtube Go
+#### Go
 * 🆓 [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) - Focused on the education of developers
 * 🆓 [Golang UK Conference](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ)
 * 🆓 [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) - Programming in Go
