@@ -1,6 +1,6 @@
 ## Learn to code for free
 ### Contents
-- [General](#general)
+- [Online Course Platforms](#general)
 - [Youtube Channels](#youtube-channels)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
