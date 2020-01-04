@@ -6,7 +6,7 @@
 		- [JavaScript - ES6](#javascript-es6)
 	- [NodeJS](#nodejs)
 	- [ReactJS](#reactjs)
-	- [React Native](react-native)
+	- [React Native](#react-native)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube-channels)
