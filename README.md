@@ -122,7 +122,9 @@
 ---
 
 ### Helpers
-* 🆓 [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
+* [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
+* [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+* [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
 
 ---
 
