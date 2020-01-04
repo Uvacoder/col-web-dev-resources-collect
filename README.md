@@ -131,7 +131,7 @@
 
 ---
 
-## Youtube Channels
+### Youtube Channels
 ### Programming and Technology
 * 🆓 [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, technology and motivation (pt_BR)
 * 🆓 [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Profession, programming and technology (pt_BR)
