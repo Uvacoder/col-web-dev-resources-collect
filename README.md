@@ -9,6 +9,7 @@
 	- [React Native](#react-native)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
+- [Helpers](#helpers)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
@@ -59,20 +60,20 @@
 ### Specific courses
 
 #### JavaScript
-* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script) - (pt-BR)
+* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 
 #### JavaScript ES6
-* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6) - (pt-BR)
+* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
 
 #### NodeJS
-* 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/) - (pt-BR)
-* 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js) - (pt-BR)
+* 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
+* 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
 
 #### ReactJS
-* 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js) - (pt-BR)
+* 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
 
 #### React Native
-* 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native) - (pt-BR)
+* 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
 ---
 
@@ -105,12 +106,17 @@
 ---
 
 ### Blogs
-* 🆓 [David Walsh](https://davidwalsh.name/) - JavaScript, Node.js, JQuery, React.js and more...
-* 🆓 [SitePoint](https://www.sitepoint.com/blog/) - Programming, web development, entrepreneurship and more...
-* 🆓 [Tuts+](https://tutsplus.com/) - Free programming tutorials and ebooks
-* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) - Programming and development/design blog
-* 🆓 [CSS-Tricks](https://css-tricks.com/) - Web develpment blog
-* 🆓 [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node, React, React Native (pt-BR)
+* 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
+* 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
+* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
+* 🆓 [CSS-Tricks](https://css-tricks.com/) 			- Web develpment blog
+* 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
+* 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
+* 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
+* []() 
+
+### Helpers
+* [babeljs](https://bit.ly/35iUI8s)
 
 ---
 
