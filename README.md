@@ -10,6 +10,7 @@
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Helpers](#helpers)
+- [UX](#ux)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
@@ -61,6 +62,7 @@
 
 #### JavaScript
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
+* 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 
 #### JavaScript ES6
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
@@ -113,12 +115,19 @@
 * 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
 * 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
 * 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
-* []()
+* 🆓 [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials
+* 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
+* 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
 ---
 
 ### Helpers
-* [babeljs](https://bit.ly/35iUI8s)
+* 🆓 [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
+
+---
+
+### UX
+* 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
 ---
 
