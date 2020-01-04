@@ -1,4 +1,4 @@
-## Learn to code for free
+## Learn Programming for Free
 ### Contents
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
