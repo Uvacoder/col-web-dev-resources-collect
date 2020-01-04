@@ -4,7 +4,9 @@
 - [Specific Courses](#specific-courses)
 	- [JavaScript](#javascript)
 		- [JavaScript - ES6](#javascript-es6)
-    - [Node.js](#nodejs)
+	- [NodeJS](#nodejs)
+	- [ReactJS](#reactjs)
+	- [React Native](react-native)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Youtube Channels](#youtube-channels)
@@ -62,10 +64,15 @@
 #### JavaScript ES6
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6) - (pt-BR)
 
-#### Node.js
-* 🆓 [Learn Node.js](https://treinamento.nodebr.org/) - (pt-BR)
+#### NodeJS
+* 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/) - (pt-BR)
+* 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js) - (pt-BR)
 
+#### ReactJS
+* 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js) - (pt-BR)
 
+#### React Native
+* 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native) - (pt-BR)
  
 ---
 
