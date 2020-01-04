@@ -2,6 +2,8 @@
 ### Contents
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
+	- [JavaScript](#javascript)
+		- [JavaScript - ES6](#javascript-es6)
     - [Node.js](#nodejs)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
@@ -54,8 +56,16 @@
 
 ### Specific courses
 
+#### JavaScript
+* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script) - (pt-BR)
+
+#### JavaScript ES6
+* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6) - (pt-BR)
+
 #### Node.js
-* 🆓 [Learn Node.js](https://treinamento.nodebr.org/)
+* 🆓 [Learn Node.js](https://treinamento.nodebr.org/) - (pt-BR)
+
+
  
 ---
 
