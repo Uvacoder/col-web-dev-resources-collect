@@ -113,7 +113,9 @@
 * 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
 * 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
 * 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
-* []() 
+* []()
+
+---
 
 ### Helpers
 * [babeljs](https://bit.ly/35iUI8s)
