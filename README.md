@@ -60,6 +60,7 @@
 
 ---
 
+##### [⬆ back to top](#contents)
 ### Specific courses
 
 #### JavaScript
@@ -81,6 +82,7 @@
  
 ---
 
+##### [⬆ back to top](#contents)
 ### Coding challenge: learn by doing
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
@@ -109,6 +111,7 @@
     
 ---
 
+##### [⬆ back to top](#contents)
 ### Blogs
 * 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
 * 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
@@ -123,6 +126,7 @@
 
 ---
 
+##### [⬆ back to top](#contents)
 ### Helpers
 * [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
 * [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
@@ -130,17 +134,20 @@
 
 ---
 
+##### [⬆ back to top](#contents)
 ### Documentation
 #### React Docs
 * [Reactjs docs](https://reactjs.org/docs/getting-started.html)
 
 ---
 
+##### [⬆ back to top](#contents)
 ### UX
 * 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
 ---
 
+##### [⬆ back to top](#contents)
 ### Youtube Channels
 ### Programming and Technology
 * 🆓 [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, technology and motivation (pt_BR)
