@@ -32,9 +32,13 @@
     - [Java](#java)
     - [Go](#go)
 
+
+
 ---
 
-### Online Course Platforms
+
+
+## Online Course Platforms
 * 🆓 [HackerRank](https://www.hackerrank.com/) 
 * 🆓 [Udemy](https://www.udemy.com/) 💰
 * 🆓 [Hackr.io](https://hackr.io/)
@@ -58,12 +62,18 @@
 * 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * 🆓 [Edabit](https://edabit.com/)
 
+
+
+
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Specific courses
 
-#### JavaScript
+
+
+## Specific courses
+### JavaScript
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 * 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 
@@ -80,10 +90,16 @@
 #### React Native
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
+ 
+ 
+ 
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Coding challenge: learn by doing
+
+
+## Coding challenge: learn by doing
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
@@ -109,10 +125,15 @@
 * #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
     
+    
+    
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Blogs
+
+
+## Blogs
 * 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
 * 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
 * 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
@@ -124,31 +145,56 @@
 * 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
 * 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
+
+
+
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Helpers
+
+
+## Helpers
 * [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
 * [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 * [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
 
+
+
+
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Documentation
-#### React Docs
+
+
+## Documentation
+### React Docs
 * [Reactjs docs](https://reactjs.org/docs/getting-started.html)
 
+
+
+
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### UX
+
+
+
+## UX
 * 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
+
+
+
+---
+#### [⬆ back to top](#contents)
 ---
 
-##### [⬆ back to top](#contents)
-### Youtube Channels
+
+
+## Youtube Channels
 ### Programming and Technology
 * 🆓 [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw/) - Programming, technology and motivation (pt_BR)
 * 🆓 [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Profession, programming and technology (pt_BR)
