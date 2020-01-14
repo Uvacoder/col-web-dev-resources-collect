@@ -11,7 +11,7 @@
 - [Blogs](#blogs)
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
-	- [Reactjs](#react-docs)
+	- [Reactjs](#react)
 	- [TypeScript](#typescript)
 	- [Gatsby.js](#gatsby)
 - [UX](#ux)
