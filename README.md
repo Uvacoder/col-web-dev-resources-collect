@@ -11,7 +11,7 @@
 - [Blogs](#blogs)
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
-	- [Reactjs docs](#react-docs)
+	- [Reactjs](#react-docs)
 	- [TypeScript](#typescript)
 	- [Gatsby.js](#gatsby)
 - [UX](#ux)
@@ -171,9 +171,13 @@
 
 
 ## Documentation
-### React Docs
+##### React
 * [Reactjs](https://reactjs.org/docs/getting-started.html)
+
+##### TypeScript
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
+
+##### Gatsby
 * [Gatsby.js](https://www.gatsbyjs.org/docs/)
 
 
