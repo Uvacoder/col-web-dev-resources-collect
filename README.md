@@ -11,15 +11,6 @@
 - [Blogs](#blogs)
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
-	- [Reactjs](#react)
-	- [TypeScript](#typescript)
-	- [Gatsby.js](#gatsby)
-	- [Angular](#angular)
-	- [Sequelize](#sequelize)
-	- [JavaScript](#javascript)
-	- [Node.js](node)
-	- [Vue.js](#vue)
-	- [React Native](#react-native)
 - [UX](#ux)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
@@ -177,32 +168,21 @@
 
 
 ## Documentation
-##### React
-* [Reactjs](https://reactjs.org/docs/getting-started.html)
-
-##### React Native
-* [React Native](https://facebook.github.io/react-native/docs/getting-started)
-
-##### TypeScript
+* [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
-
-##### Gatsby
+* [Node.js](https://nodejs.org/en/docs/)
+* [Reactjs](https://reactjs.org/docs/getting-started.html)
+* [React Native](https://facebook.github.io/react-native/docs/getting-started)
+* [Vue.js](https://vuejs.org/)
 * [Gatsby.js](https://www.gatsbyjs.org/docs/)
-
-##### Angular
 * [Angular](https://angular.io/)
-
-##### Sequelize
 * [Sequelize](https://sequelize.org/)
 
-##### JavaScript
-* [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-##### Node
-* [Node.js](https://nodejs.org/en/docs/)
 
-##### Vue
-* [Vue.js](https://vuejs.org/)
+
+
+
 
 ---
 #### [⬆ back to top](#contents)
