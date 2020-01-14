@@ -170,13 +170,17 @@
 ## Documentation
 * [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
+* [Dart](https://dart.dev/guides)
 * [Node.js](https://nodejs.org/en/docs/)
 * [Reactjs](https://reactjs.org/docs/getting-started.html)
 * [React Native](https://facebook.github.io/react-native/docs/getting-started)
 * [Vue.js](https://vuejs.org/)
 * [Gatsby.js](https://www.gatsbyjs.org/docs/)
+* [Flutter](https://flutter.dev/docs)
 * [Angular](https://angular.io/)
 * [Sequelize](https://sequelize.org/)
+* [Express](https://expressjs.com/en/guide/routing.html)
+* [AdonisJs](https://adonisjs.com/docs/)
 
 
 
