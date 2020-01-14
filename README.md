@@ -12,6 +12,7 @@
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
 	- [Reactjs docs](#react-docs)
+	- [TypeScript](typescript)
 - [UX](#ux)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
@@ -170,7 +171,8 @@
 
 ## Documentation
 ### React Docs
-* [Reactjs docs](https://reactjs.org/docs/getting-started.html)
+* [Reactjs](https://reactjs.org/docs/getting-started.html)
+* [TypeScript](https://www.typescriptlang.org/docs/home.html)
 
 
 
