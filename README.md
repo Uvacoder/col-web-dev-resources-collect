@@ -12,7 +12,7 @@
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
 	- [Reactjs docs](#react-docs)
-	- [TypeScript](typescript)
+	- [TypeScript](#typescript)
 - [UX](#ux)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
