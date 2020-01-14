@@ -13,6 +13,7 @@
 - [Official documentation](#documentation)
 	- [Reactjs docs](#react-docs)
 	- [TypeScript](#typescript)
+	- [Gatsby.js](#gatsby)
 - [UX](#ux)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
@@ -173,6 +174,7 @@
 ### React Docs
 * [Reactjs](https://reactjs.org/docs/getting-started.html)
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
+* [Gatsby.js](https://www.gatsbyjs.org/docs/)
 
 
 
