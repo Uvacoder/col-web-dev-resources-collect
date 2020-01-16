@@ -133,6 +133,8 @@
 
 
 ## Blogs
+* 🆓 [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
+* 🆓 [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
 * 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
 * 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
 * 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
@@ -140,7 +142,9 @@
 * 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
 * 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
 * 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
-* 🆓 [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials
+* 🆓 [Filipe Deschamps](https://filipedeschamps.com.br/)	- Javascript, Node.js, clean code and Open Source
+* 🆓 [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials - (pt_BR)
+* 🆓 [Kriss](https://kriss.io/) 				- React Native
 * 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
 * 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
