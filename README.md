@@ -75,6 +75,7 @@
 ### JavaScript
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 * 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+* 🆓 [JavaScript30](https://javascript30.com/)
 
 #### JavaScript ES6
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
