@@ -186,6 +186,7 @@
 * [Sequelize](https://sequelize.org/)
 * [Express](https://expressjs.com/en/guide/routing.html)
 * [AdonisJs](https://adonisjs.com/docs/)
+* [Expo](https://docs.expo.io/versions/latest/)
 
 
 
