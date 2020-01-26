@@ -12,6 +12,8 @@
 - [Helpers](#helpers)
 - [Official documentation](#documentation)
 - [UX](#ux)
+- [Web Development](web-development)
+	- [CSS](#css)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
@@ -188,7 +190,8 @@
 * [Express](https://expressjs.com/en/guide/routing.html)
 * [AdonisJs](https://adonisjs.com/docs/)
 * [Expo](https://docs.expo.io/versions/latest/)
-* [GIT faq - pt_BR](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html#videos)
+* [GIT BOOK](https://git-scm.com/book/en/v2)
+* [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
 
 
@@ -202,11 +205,12 @@
 
 
 
-
-## UX
+## Web Development
+### UX
 * 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
-
+### CSS
+* 🆓 [Every layout](https://every-layout.dev/) - Every layout
 
 
 ---
