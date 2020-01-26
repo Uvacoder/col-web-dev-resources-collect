@@ -188,6 +188,7 @@
 * [Express](https://expressjs.com/en/guide/routing.html)
 * [AdonisJs](https://adonisjs.com/docs/)
 * [Expo](https://docs.expo.io/versions/latest/)
+* [GIT faq - pt_BR](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html#videos)
 
 
 
