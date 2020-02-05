@@ -20,6 +20,7 @@
 - [Web Development](#web-development)
 	- [UX](#ux)
 	- [CSS](#css)
+- [Books](#books)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
@@ -223,7 +224,9 @@
 #### [⬆ back to top](#contents)
 ---
 
-
+## Books
+### JavaScript
+* 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
 ## Youtube Channels
 ### Programming and Technology
