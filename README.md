@@ -72,11 +72,7 @@
 
 
 
-
----
-#### [⬆ back to top](#contents)
----
-
+#### [🔺 back to top](#contents)
 
 
 
@@ -101,10 +97,7 @@
  
  
  
- 
----
-#### [⬆ back to top](#contents)
----
+#### [🔺 back to top](#contents)
 
 
 
@@ -136,9 +129,7 @@
     
     
     
----
-#### [⬆ back to top](#contents)
----
+#### [🔺 back to top](#contents)
 
 
 
@@ -160,10 +151,7 @@
 
 
 
-
----
-#### [⬆ back to top](#contents)
----
+#### [🔺 back to top](#contents)
 
 
 
@@ -175,10 +163,7 @@
 
 
 
-
----
-#### [⬆ back to top](#contents)
----
+#### [🔺 back to top](#contents)
 
 
 
@@ -202,13 +187,7 @@
 
 
 
-
-
-
-
----
-#### [⬆ back to top](#contents)
----
+#### [🔺 back to top](#contents)
 
 
 
@@ -220,17 +199,17 @@
 * 🆓 [Every layout](https://every-layout.dev/) - Every layout
 
 
----
+
 #### [🔺 back to top](#contents)
----
+
 
 ## Books
 ### JavaScript
 * 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
----
+
 #### [🔺 back to top](#contents)
----
+
 
 ## Youtube Channels
 ### Programming and Technology
