@@ -1,6 +1,6 @@
 <h3 align="center"> Learn Programming for Free </h3>
 
-<h4> Contents </>
+<h4> Contents </h4>
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
 	- [JavaScript](#javascript)
@@ -65,7 +65,7 @@
 * 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * 🆓 [Edabit](https://edabit.com/)
 
-<hr>
+<hr />
 
 ↑ [back to top](#contents)
 
@@ -90,12 +90,12 @@
 <h4> React Native </h4>
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
- <hr>
+<hr />
  
 ↑ [back to top](#contents)
 
 
-<h2 align="center"> Coding challenge: learn by doing </h2>
+<h3 align="center"> Coding challenge: learn by doing </h3>
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
