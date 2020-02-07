@@ -1,6 +1,6 @@
 <h3 align="center"> Learn Programming for Free </h3>
 
-<h4> Contents </h4>
+#### Contents
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
 	- [JavaScript](#javascript)
@@ -40,7 +40,7 @@
 ---
 
 
-<h4 align="center"> Online Course Platforms </h4>
+#### Online Course Platforms
 
 * 🆓 [HackerRank](https://www.hackerrank.com/) 
 * 🆓 [Udemy](https://www.udemy.com/) 💰
@@ -70,24 +70,24 @@
 ↑ [back to top](#contents)
 
 
-<h3 align="center"> Specific courses </h3>
+#### Specific courses
 
-<h4> JavaScript </h4>
+##### JavaScript
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 * 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 * 🆓 [JavaScript30](https://javascript30.com/)
 
-<h4> JavaScript ES6 </h4>
+##### JavaScript ES6
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
 
-<h4> NodeJS </h4>
+##### NodeJS
 * 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
 * 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
 
-<h4> ReactJS </h4>
+##### ReactJS
 * 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
 
-<h4> React Native </h4>
+##### React Native
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
 <hr />
@@ -95,7 +95,7 @@
 ↑ [back to top](#contents)
 
 
-<h3 align="center"> Coding challenge: learn by doing </h3>
+#### Coding challenge: learn by doing
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
