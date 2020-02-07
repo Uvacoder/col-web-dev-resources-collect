@@ -11,7 +11,7 @@
 	- [JavaScript](#javascript)
 		- [JavaScript - ES6](#javascript-es6)
 	- [NodeJS](#nodejs)
-	- [ReactJS](#reactjs)d
+	- [ReactJS](#reactjs)
 	- [React Native](#react-native)
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
