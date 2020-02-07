@@ -1,6 +1,6 @@
-<h2 align="center"> Learn Programming for Free </h2>
+<h3 align="center"> Learn Programming for Free </h3>
 
-### Contents
+<h4> Contents </>
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
 	- [JavaScript](#javascript)
@@ -40,7 +40,7 @@
 ---
 
 
-<h3 align="center"> Online Course Platforms </h3>
+<h4 align="center"> Online Course Platforms </h4>
 
 * 🆓 [HackerRank](https://www.hackerrank.com/) 
 * 🆓 [Udemy](https://www.udemy.com/) 💰
@@ -65,30 +65,32 @@
 * 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * 🆓 [Edabit](https://edabit.com/)
 
+<hr>
 
 ↑ [back to top](#contents)
 
 
-<h2 align="center"> Specific courses </h2>
+<h3 align="center"> Specific courses </h3>
 
-### JavaScript
+<h4> JavaScript </h4>
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 * 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
 * 🆓 [JavaScript30](https://javascript30.com/)
 
-#### JavaScript ES6
+<h4> JavaScript ES6 </h4>
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
 
-#### NodeJS
+<h4> NodeJS </h4>
 * 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
 * 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
 
-#### ReactJS
+<h4> ReactJS </h4>
 * 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
 
-#### React Native
+<h4> React Native </h4>
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
+ <hr>
  
 ↑ [back to top](#contents)
 
@@ -118,7 +120,8 @@
     
 * #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
-    
+
+<hr>
     
 ↑ [back to top](#contents)
 
