@@ -184,6 +184,13 @@
 * [Expo](https://docs.expo.io/versions/latest/)
 * [GIT BOOK](https://git-scm.com/book/en/v2)
 * [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
+* [Formik](https://jaredpalmer.com/formik)
+* [Unform](https://github.com/Rocketseat/unform)
+* [Material-UI](https://material-ui.com/getting-started/installation/)
+* [reactstrap](https://reactstrap.github.io/)
+* [Materialize](https://materializecss.com/)
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Tailwind](https://tailwindcss.com/docs/installation)
 
 
 
