@@ -65,9 +65,10 @@
 * 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
 * 🆓 [Edabit](https://edabit.com/)
 
-<hr />
 
+<hr />
 ↑ [back to top](#contents)
+<hr />
 
 
 #### Specific courses
@@ -90,9 +91,10 @@
 ##### React Native
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
-<hr />
  
+<hr />
 ↑ [back to top](#contents)
+<hr />
 
 
 #### Coding challenge: learn by doing
@@ -121,9 +123,10 @@
 * #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
 
+
 <hr>
-    
 ↑ [back to top](#contents)
+<hr />
 
 
 ## Blogs
@@ -142,9 +145,9 @@
 * 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
 * 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
-
+<hr />
 ↑ [back to top](#contents)
-
+<hr />
 
 ## Helpers
 * [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
@@ -152,9 +155,9 @@
 * [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
 * [promises playground](http://bevacqua.github.io/promisees/) - promises visualizer
 
-
+<hr />
 ↑ [back to top](#contents)
-
+<hr />
 
 ## Documentation
 * [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -182,8 +185,9 @@
 * [Tailwind](https://tailwindcss.com/docs/installation)
 
 
-
+<hr />
 ↑ [back to top](#contents)
+<hr />
 
 
 ## Web Development
@@ -194,13 +198,20 @@
 * 🆓 [Every layout](https://every-layout.dev/) - Every layout
 
 
+<hr />
 ↑ [back to top](#contents)
+<hr />
+
 
 ## Books
 ### JavaScript
 * 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
+
+<hr />
 ↑ [back to top](#contents)
+<hr />
+
 
 ## Youtube Channels
 ### Programming and Technology
