@@ -3,7 +3,7 @@
 </p>
 
 
-## Learn Programming for Free
+<h2 align="center"> Learn Programming for Free </h2>
 
 ### Contents
 - [Online Course Platforms](#online-Course-platforms)
@@ -45,8 +45,8 @@
 ---
 
 
+<h3 align="center"> Online Course Platforms </h3>
 
-## Online Course Platforms
 * 🆓 [HackerRank](https://www.hackerrank.com/) 
 * 🆓 [Udemy](https://www.udemy.com/) 💰
 * 🆓 [Hackr.io](https://hackr.io/)
@@ -76,7 +76,8 @@
 --
 
 
-## Specific courses
+<h2 align="center"> Specific courses </h2>
+
 ### JavaScript
 * 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
 * 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
@@ -101,7 +102,7 @@
 --
 
 
-## Coding challenge: learn by doing
+<h2 align="center"> Coding challenge: learn by doing </h2>
 
 * #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
