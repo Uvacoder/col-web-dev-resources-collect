@@ -92,9 +92,8 @@
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
  
-<hr />
+<hr>
 ↑ [back to top](#contents)
-<hr />
 
 
 #### Coding challenge: learn by doing
