@@ -67,7 +67,9 @@
 
 
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
 
 
@@ -92,9 +94,11 @@
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
  
-<hr>
+<hr />
+
 ↑ [back to top](#contents)
 
+<hr />
 
 #### Coding challenge: learn by doing
 
@@ -124,7 +128,9 @@
 
 
 <hr>
+
 ↑ [back to top](#contents)
+
 <hr />
 
 
@@ -144,9 +150,13 @@
 * 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
 * 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
+
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
+
 
 ## Helpers
 * [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
@@ -154,9 +164,13 @@
 * [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
 * [promises playground](http://bevacqua.github.io/promisees/) - promises visualizer
 
+
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
+
 
 ## Documentation
 * [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -185,7 +199,9 @@
 
 
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
 
 
@@ -198,7 +214,9 @@
 
 
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
 
 
@@ -208,7 +226,9 @@
 
 
 <hr />
+
 ↑ [back to top](#contents)
+
 <hr />
 
 
