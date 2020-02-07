@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://wallpapercave.com/wp/wp1828906.jpg" width="50%" height="10%" style="align-self: center;" />
-</p>
-
-
 <h2 align="center"> Learn Programming for Free </h2>
 
 ### Contents
@@ -71,9 +66,7 @@
 * 🆓 [Edabit](https://edabit.com/)
 
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 <h2 align="center"> Specific courses </h2>
@@ -97,9 +90,7 @@
 * 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
  
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 <h2 align="center"> Coding challenge: learn by doing </h2>
@@ -129,9 +120,7 @@
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
     
     
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 ## Blogs
@@ -151,9 +140,7 @@
 * 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 ## Helpers
@@ -163,9 +150,7 @@
 * [promises playground](http://bevacqua.github.io/promisees/) - promises visualizer
 
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 ## Documentation
@@ -195,9 +180,7 @@
 
 
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 
 ## Web Development
@@ -208,17 +191,13 @@
 * 🆓 [Every layout](https://every-layout.dev/) - Every layout
 
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 ## Books
 ### JavaScript
 * 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
---
-#### [🔺 back to top](#contents)
---
+↑ [back to top](#contents)
 
 ## Youtube Channels
 ### Programming and Technology
