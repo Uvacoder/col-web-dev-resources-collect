@@ -177,26 +177,40 @@
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
 * [Dart](https://dart.dev/guides)
 * [Node.js](https://nodejs.org/en/docs/)
-* [Reactjs](https://reactjs.org/docs/getting-started.html)
-* [React Native](https://facebook.github.io/react-native/docs/getting-started)
-* [Vue.js](https://vuejs.org/)
-* [Gatsby.js](https://www.gatsbyjs.org/docs/)
-* [Flutter](https://flutter.dev/docs)
-* [Angular](https://angular.io/)
 * [Sequelize](https://sequelize.org/)
 * [Express](https://expressjs.com/en/guide/routing.html)
 * [AdonisJs](https://adonisjs.com/docs/)
+
+- Web library/framework
+* [Reactjs](https://reactjs.org/docs/getting-started.html)
+* [Gatsby.js](https://www.gatsbyjs.org/docs/)
+* [Vue.js](https://vuejs.org/)
+* [Angular](https://angular.io/)
+
+
+- Mobile framework
 * [Expo](https://docs.expo.io/versions/latest/)
+* [React Native](https://facebook.github.io/react-native/docs/getting-started)
+* [Flutter](https://flutter.dev/docs)
+
+- Git docs
 * [GIT BOOK](https://git-scm.com/book/en/v2)
 * [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
+
+- UI froms
 * [Formik](https://jaredpalmer.com/formik)
 * [Unform](https://github.com/Rocketseat/unform)
+
+- UI
 * [Material-UI](https://material-ui.com/getting-started/installation/)
 * [reactstrap](https://reactstrap.github.io/)
 * [Materialize](https://materializecss.com/)
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Tailwind](https://tailwindcss.com/docs/installation)
 
+- Test Driven Development (TDD)
+* [Jest](https://jestjs.io/docs/en/getting-started.html)
+* [Mocha](https://mochajs.org/)
 
 <hr />
 
