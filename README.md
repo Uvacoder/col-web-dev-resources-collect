@@ -165,7 +165,7 @@
 * [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 * [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
 * [promises playground](http://bevacqua.github.io/promisees/) - promises visualizer
-* [Can | use](https://caniuse.com/#home)
+* [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
 <hr />
