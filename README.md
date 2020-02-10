@@ -1,4 +1,4 @@
-<h3 align="center"> Learn Programming for Free </h3>
+<h3 align="center"> Awesome programming collections </h3>
 
 <img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
 
