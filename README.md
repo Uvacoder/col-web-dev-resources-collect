@@ -163,8 +163,8 @@
 ## Helpers
 * [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
 * [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-* [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - typescript transpiler
-* [promises playground](http://bevacqua.github.io/promisees/) - promises visualizer
+* [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
+* [promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
 * [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 
