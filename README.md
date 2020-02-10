@@ -1,5 +1,7 @@
 <h3 align="center"> Learn Programming for Free </h3>
 
+<img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
+
 #### Contents
 - [Online Course Platforms](#online-Course-platforms)
 - [Specific Courses](#specific-courses)
