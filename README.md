@@ -176,7 +176,7 @@
 
 
 ## Documentation
-1. General
+### General
 * [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [TypeScript](https://www.typescriptlang.org/docs/home.html)
 * [Dart](https://dart.dev/guides)
@@ -185,30 +185,30 @@
 * [Express](https://expressjs.com/en/guide/routing.html)
 * [AdonisJs](https://adonisjs.com/docs/)
 
-2. Web library/framework
+### Web library/framework
 * [Reactjs](https://reactjs.org/docs/getting-started.html)
 * [Gatsby.js](https://www.gatsbyjs.org/docs/)
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 
-3. GraphQL
+### GraphQL
 * [Relay](https://relay.dev/docs/en/introduction-to-relay.html)
 * [Apollo](https://www.apollographql.com/docs/)
 
-4. Test Driven Development (TDD)
+### Test Driven Development (TDD)
 * [Jest](https://jestjs.io/docs/en/getting-started.html)
 * [Mocha](https://mochajs.org/)
 
-5. Mobile framework
+### Mobile framework
 * [Expo](https://docs.expo.io/versions/latest/)
 * [React Native](https://facebook.github.io/react-native/docs/getting-started)
 * [Flutter](https://flutter.dev/docs)
 
-6. Git docs
+### Git docs
 * [GIT BOOK](https://git-scm.com/book/en/v2)
 * [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
-7. UI forms
+### UI forms
 * [Formik](https://jaredpalmer.com/formik)
 * [Unform](https://github.com/Rocketseat/unform)
 
