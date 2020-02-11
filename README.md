@@ -190,6 +190,10 @@
 * [Vue.js](https://vuejs.org/)
 * [Angular](https://angular.io/)
 
+- GraphQL
+* [Relay](https://relay.dev/docs/en/introduction-to-relay.html)
+* [Apollo](https://www.apollographql.com/docs/)
+
 
 - Mobile framework
 * [Expo](https://docs.expo.io/versions/latest/)
@@ -200,7 +204,7 @@
 * [GIT BOOK](https://git-scm.com/book/en/v2)
 * [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
-- UI froms
+- UI forms
 * [Formik](https://jaredpalmer.com/formik)
 * [Unform](https://github.com/Rocketseat/unform)
 
