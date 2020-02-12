@@ -137,6 +137,7 @@
 
 
 ## Blogs
+* 🆓 [Alligator.io](https://alligator.io/)
 * 🆓 [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
 * 🆓 [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
 * 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
