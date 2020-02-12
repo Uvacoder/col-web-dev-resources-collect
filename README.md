@@ -137,7 +137,7 @@
 
 
 ## Blogs
-* 🆓 [Alligator.io](https://alligator.io/)
+* 🆓 [Alligator.io](https://alligator.io/)                      - Front-End Web Development, Angular 2+, Vue.js, React, Svelte JavaScript, CSS, Node.js...
 * 🆓 [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
 * 🆓 [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
 * 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
