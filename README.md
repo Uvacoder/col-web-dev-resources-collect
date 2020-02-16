@@ -245,7 +245,7 @@
 
 
 ## Deploy
-- [Zeit](https://zeit.co/)
+- 🆓💰 [Zeit](https://zeit.co/) 
 
 
 <hr />
@@ -268,9 +268,9 @@
 
 
 ## Agile
-- [Notion](www.notion.so)
-- [MeisterTask](https://www.meistertask.com/)
-- [Trello](https://trello.com/)
+- 🆓💰 [Notion](www.notion.so)
+- 🆓💰 [MeisterTask](https://www.meistertask.com/)
+- 🆓💰 [Trello](https://trello.com/)
 
 
 <hr />
