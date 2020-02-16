@@ -17,6 +17,7 @@
 - [Web Development](#web-development)
 	- [UX](#ux)
 	- [CSS](#css)
+- [Deploy](#deploy)
 - [Books](#books)
 - [Agile](#agile)
 - [Youtube Channels](#youtube-channels)
@@ -234,6 +235,17 @@
 
 ### CSS
 * 🆓 [Every layout](https://every-layout.dev/) - Every layout
+
+
+<hr />
+
+↑ [back to top](#contents)
+
+<hr />
+
+
+## Deploy
+- [Zeit](https://zeit.co/)
 
 
 <hr />
