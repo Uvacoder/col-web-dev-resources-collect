@@ -18,6 +18,7 @@
 	- [UX](#ux)
 	- [CSS](#css)
 - [Books](#books)
+- [Agile](#agile)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
@@ -245,6 +246,19 @@
 ## Books
 ### JavaScript
 * 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
+
+
+<hr />
+
+↑ [back to top](#contents)
+
+<hr />
+
+
+## Agile
+- [Notion](www.notion.so)
+- [MeisterTask](https://www.meistertask.com/)
+- [Trello](https://trello.com/)
 
 
 <hr />
