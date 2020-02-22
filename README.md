@@ -20,7 +20,7 @@
 - [Deploy](#deploy)
 - [Books](#books)
 - [Agile](#agile)
-- [Project management tool](#roject-management-tool)
+- [Project management tool](#project-management-tool)
 - [Youtube Channels](#youtube-channels)
     - [Programming and Technology](#programming-and-technology)
     - [WebDev](#htmlcssjavascript-webdev)
