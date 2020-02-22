@@ -284,7 +284,7 @@
 
 
 ## Project management tool
-- 🆓💰 [Clickup](https://clickup.com/)
+- 🆓💰 [Clickup](https://clickup.com/) - ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.
 
 
 <hr />
