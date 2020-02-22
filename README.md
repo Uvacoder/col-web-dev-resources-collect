@@ -272,6 +272,7 @@
 - 🆓💰 [Notion](www.notion.so)
 - 🆓💰 [MeisterTask](https://www.meistertask.com/)
 - 🆓💰 [Trello](https://trello.com/)
+- 🆓💰 [Asana](https://asana.com/)
 
 
 <hr />
