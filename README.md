@@ -247,7 +247,9 @@
 
 
 ## Deploy
-- 🆓💰 [Zeit](https://zeit.co/) 
+- 🆓💰 [Zeit](https://zeit.co/)
+- 🆓💰 [Heroku](https://www.heroku.com/)
+- 🆓 [Github pages](https://pages.github.com/)
 
 
 <hr />
