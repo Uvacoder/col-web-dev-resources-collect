@@ -171,6 +171,8 @@
 * 🆓 [promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
 * 🆓 [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 * 🆓 [Gitbook](https://app.gitbook.com/)
+* 🆓 [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
+* 🆓 [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
 
 
 <hr />
