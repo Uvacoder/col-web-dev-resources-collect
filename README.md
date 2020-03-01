@@ -13,7 +13,6 @@
 - [Challenge](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Helpers](#helpers)
-- [Official documentation](#documentation)
 - [Web Development](#web-development)
 	- [UX](#ux)
 	- [CSS](#css)
@@ -179,8 +178,7 @@
 
 <hr />
 
-
-## Documentation
+## Web Development
 ### General
 - [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
@@ -223,6 +221,7 @@
 - [Materialize](https://materializecss.com/)
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
+- [Pure CSS](https://purecss.io/)
 	#### Colors
 	- [Piculiar](https://picular.co/) - Google, but for colors
 	- [Coolors](https://coolors.co/) - The super fast color schemes generator!
@@ -234,15 +233,6 @@
 	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nive custom fancy border radius
 	- [Blobmaker](https://www.blobmaker.app/) - nice custom blobmaker (border-radius)
 	
-
-<hr />
-
-↑ [back to top](#contents)
-
-<hr />
-
-
-## Web Development
 ### UX
 - 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
@@ -251,7 +241,6 @@
 - 🆓 [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
 - 🆓 [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
 - 🆓 [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
-
 
 <hr />
 
