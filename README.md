@@ -22,7 +22,7 @@
 	- [Node.js](#nodejs)
 	- [React.js](#reactjs)
 	- [React Native](#react-native)
-- [Challenges](#-coding-challenge:-learn-by-doing)
+- [Challenges](#-coding-challenge-learn-by-doing)
 - [Blogs](#-blogs)
 - [Helpers](#-helpers)
 - [Web Development](#-web-development)
