@@ -14,8 +14,6 @@
 - [Blogs](#blogs)
 - [Helpers](#helpers)
 - [Web Development](#web-development)
-	- [UX](#ux)
-	- [CSS](#css)
 - [Deploy](#deploy)
 - [Books](#books)
 - [Agile](#agile)
