@@ -1,5 +1,5 @@
 <div align="center">
-### Awesome web dev resources
+Awesome web dev resources
 
 ![](https://badgen.net/github/last-commit/rwietter/awesome-web-dev-resources)
 ![](https://badgen.net/github/license/rwietter/awesome-web-dev-resources)
