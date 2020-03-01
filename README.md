@@ -10,7 +10,7 @@
 	- [NodeJS](#nodejs)
 	- [ReactJS](#reactjs)
 	- [React Native](#react-native)
-- [Challenge](#coding-challenge-learn-by-doing)
+- [Challenges](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
 - [Helpers](#helpers)
 - [Web Development](#web-development)
