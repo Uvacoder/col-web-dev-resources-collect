@@ -1,5 +1,5 @@
 <div align="center">
-	<h3> Awesome web dev resources </h3>
+### Awesome web dev resources
 
 ![](https://badgen.net/github/last-commit/rwietter/awesome-web-dev-resources)
 ![](https://badgen.net/github/license/rwietter/awesome-web-dev-resources)
@@ -10,7 +10,7 @@
 
 <details>
 	<summary>
-		contents
+		<strong> contents </strong>
 	</summary>
 	
 - [Online Course Platforms](#online-Course-platforms)
