@@ -1,5 +1,5 @@
 <div align="center">
-Awesome web dev resources
+	<h3 class="title"> Awesome web dev resources </h3>
 
 ![](https://badgen.net/github/last-commit/rwietter/awesome-web-dev-resources)
 ![](https://badgen.net/github/license/rwietter/awesome-web-dev-resources)
@@ -65,7 +65,7 @@ Awesome web dev resources
 
 <hr />
 
-↑ [back to top](#contents)
+↑ [back to top](#title)
 
 <hr />
 
