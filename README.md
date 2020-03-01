@@ -227,8 +227,11 @@
 	- [Piculiar](https://picular.co/) - Google, but for colors
 	- [Coolors](https://coolors.co/) - The super fast color schemes generator!
 	- [CSS Gradient](https://cssgradient.io/) - Nice css gradient
+	- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspiration.
 	#### Waves
 	- [Get waves](https://getwaves.io/) - A simple web app to generate svg waves, unique every time
+	#### Fancy border
+	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nive custom fancy border radius
 	
 
 <hr />
