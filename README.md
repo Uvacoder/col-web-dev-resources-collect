@@ -15,14 +15,14 @@
 
 ### Resources
 
-- [Online Course Platforms](#online-Course-platforms)
-- [Courses](#specific-courses)
+- [Online Course Platforms](#🎬-online-Course-platforms)
+- [Courses](#🎬-courses)
 	- [Javascript](#javascript)
 		- [Javascript - ES6](#javascript-es6)
 	- [Node.js](#nodejs)
 	- [React.js](#reactjs)
 	- [React Native](#react-native)
-- [Challenges](#coding-challenge-learn-by-doing)
+- [Challenges](#💡-coding-challenge:-learn-by-doing)
 - [Blogs](#blogs)
 - [Helpers](#ℹ️-helpers)
 - [Web Development](#web-development)
