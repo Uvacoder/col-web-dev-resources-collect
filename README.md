@@ -161,9 +161,14 @@
 ## ℹ️ Helpers
 #### JavaScript
 - [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
-- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - nice JavaScript visualizer context
+- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - Nice JavaScript visualizer context
+- [Does it mutate ?](https://doesitmutate.xyz/) Nice tool for mutates and no mutation in JavaScript
+- [Keycode events](http://keycode.info/) - Keycode click events for JavaScript
+- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
 - [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [Promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
+- [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) - Syntax
+- [jsPerf](https://jsperf.com/) - JavaScript performance playground
 #### TypeScript
 - [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
 #### CSS
