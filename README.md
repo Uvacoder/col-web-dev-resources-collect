@@ -3,10 +3,9 @@
 <img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
 
 <details>
-  <summary> Contents </summary>
-  
-  <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-  <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+	<summary>
+		<strong> Contents </strong>
+	</summary>
 	
 - [Online Course Platforms](#online-Course-platforms)
 - [Courses](#specific-courses)
@@ -24,25 +23,6 @@
 - [Agile](#agile)
 - [Project management tool](#project-management-tool)
 - [Youtube Channels](#youtube-channels)
-    - [Programming and Technology](#programming-and-technology)
-    - [WebDev](#htmlcssjavascript-webdev)
-    - [Javascript](#javascript)
-    - [ReactJS](#reactjs)
-    - [AngularJS](#angularjs)
-    - [NodeJS](#nodejs)
-    - [Flutter](#flutter)
-    - [Python](#python)
-    - [PHP](#php)
-    - [Ruby](#ruby)
-    - [Swift](#swift)
-    - [Erlang](#erlang)
-    - [C++](#c)
-    - [Perl](#perl)
-    - [Clojure](#clojure)
-    - [Java](#java)
-    - [Go](#go)
-    
-    <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 </details>
 
