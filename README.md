@@ -23,14 +23,14 @@
 	- [React.js](#reactjs)
 	- [React Native](#react-native)
 - [Challenges](#-coding-challenge:-learn-by-doing)
-- [Blogs](#blogs)
-- [Helpers](#ℹ️-helpers)
-- [Web Development](#web-development)
-- [Deploy](#deploy)
-- [Books](#books)
-- [Agile](#agile)
-- [Project management tool](#project-management-tool)
-- [Youtube Channels](#youtube-channels)
+- [Blogs](#-blogs)
+- [Helpers](#-helpers)
+- [Web Development](#-web-development)
+- [Deploy](#-deploy)
+- [Books](#-books)
+- [Agile](#-agile)
+- [Project management tool](#-project-management-tool)
+- [Youtube Channels](#-youtube-channels)
 
 </details>
 
