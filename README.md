@@ -10,7 +10,7 @@
 
 <details>
 	<summary>
-		<strong> Contents </strong>
+		contents
 	</summary>
 	
 - [Online Course Platforms](#online-Course-platforms)
@@ -22,7 +22,7 @@
 	- [React Native](#react-native)
 - [Challenges](#coding-challenge-learn-by-doing)
 - [Blogs](#blogs)
-- [Helpers](#helpers)
+- [Helpers](#ℹ️-helpers)
 - [Web Development](#web-development)
 - [Deploy](#deploy)
 - [Books](#books)
