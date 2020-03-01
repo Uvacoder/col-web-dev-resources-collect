@@ -47,28 +47,28 @@
 
 #### Online Course Platforms
 
-* 🆓 [HackerRank](https://www.hackerrank.com/) 
-* 🆓 [Udemy](https://www.udemy.com/) 💰
-* 🆓 [Hackr.io](https://hackr.io/)
-* 🆓 [Coderbyte](https://coderbyte.com/)
-* 🆓 [Udacity](https://www.udacity.com/) 💰
-* 🆓 [freeCodeCamp](https://www.freecodecamp.org/)
-* 🆓 [Coursera](https://www.coursera.org/) 💰
-* 🆓 [edX](https://www.edx.org/) 💰
-* 🆓 [Codewars](https://www.codewars.com/)
-* 🆓 [Launch School Open Book Shelf](https://launchschool.com/books)
-* 🆓 [GA Dash](https://dash.generalassemb.ly/)
-* 🆓 [Codecademy](https://www.codecademy.com/)
-* 🆓 [The Odin Project](https://www.theodinproject.com/)
-* 🆓 [SoloLearn](https://www.sololearn.com/)
-* 🆓 [The Code Player](http://thecodeplayer.com/)
-* 🆓 [Bento.io](https://bento.io/)
-* 🆓 [Code.org](https://code.org/)
-* 🆓 [Scotch.io](https://scotch.io/courses/)
-* 🆓 [Khan Academy](https://www.khanacademy.org/)
-* 🆓 [W3Schools](https://www.w3schools.com/)
-* 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
-* 🆓 [Edabit](https://edabit.com/)
+- 🆓 [HackerRank](https://www.hackerrank.com/) 
+- 🆓 [Udemy](https://www.udemy.com/) 💰
+- 🆓 [Hackr.io](https://hackr.io/)
+- 🆓 [Coderbyte](https://coderbyte.com/)
+- 🆓 [Udacity](https://www.udacity.com/) 💰
+- 🆓 [freeCodeCamp](https://www.freecodecamp.org/)
+- 🆓 [Coursera](https://www.coursera.org/) 💰
+- 🆓 [edX](https://www.edx.org/) 💰
+- 🆓 [Codewars](https://www.codewars.com/)
+- 🆓 [Launch School Open Book Shelf](https://launchschool.com/books)
+- 🆓 [GA Dash](https://dash.generalassemb.ly/)
+- 🆓 [Codecademy](https://www.codecademy.com/)
+- 🆓 [The Odin Project](https://www.theodinproject.com/)
+- 🆓 [SoloLearn](https://www.sololearn.com/)
+- 🆓 [The Code Player](http://thecodeplayer.com/)
+- 🆓 [Bento.io](https://bento.io/)
+- 🆓 [Code.org](https://code.org/)
+- 🆓 [Scotch.io](https://scotch.io/courses/)
+- 🆓 [Khan Academy](https://www.khanacademy.org/)
+- 🆓 [W3Schools](https://www.w3schools.com/)
+- 🆓 [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)
+- 🆓 [Edabit](https://edabit.com/)
 
 
 <hr />
@@ -81,22 +81,22 @@
 #### Specific courses
 
 ##### JavaScript
-* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
-* 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
-* 🆓 [JavaScript30](https://javascript30.com/)
+- 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
+- 🆓 [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
+- 🆓 [JavaScript30](https://javascript30.com/)
 
 ##### JavaScript ES6
-* 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
+- 🆓 [JavaScript - RocketSeat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
 
 ##### NodeJS
-* 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
-* 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
+- 🆓 [NodeJS - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
+- 🆓 [NodeJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
 
 ##### ReactJS
-* 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
+- 🆓 [ReactJS - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
 
 ##### React Native
-* 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
+- 🆓 [React Native - RocketSeat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
  
  
 <hr />
@@ -107,28 +107,28 @@
 
 #### Coding challenge: learn by doing
 
-* #### 🆓 [HackerRank](https://www.hackerrank.com/)
+- #### 🆓 [HackerRank](https://www.hackerrank.com/)
     - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
     
-* #### 🆓 [Codewars](https://www.codewars.com/) 
+- #### 🆓 [Codewars](https://www.codewars.com/) 
     - Achieve code mastery through challenge.
     
-* #### 🆓 [Firecode.io](https://www.firecode.io/)
+- #### 🆓 [Firecode.io](https://www.firecode.io/)
     - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
     
-* #### 🆓 [LeetCode](https://leetcode.com/)
+- #### 🆓 [LeetCode](https://leetcode.com/)
     - Level up your coding skills.
     
-* #### 🆓 [Edabit](https://edabit.com/)
+- #### 🆓 [Edabit](https://edabit.com/)
     - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
     
-* #### 🆓 [RealDev](https://real.dev)
+- #### 🆓 [RealDev](https://real.dev)
     - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
     
-* #### 🆓 [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
+- #### 🆓 [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
     - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
     
-* #### 🆓 [Exercism.io](https://exercism.io/) 
+- #### 🆓 [Exercism.io](https://exercism.io/) 
     - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
 
 
@@ -140,21 +140,21 @@
 
 
 ## Blogs
-* 🆓 [Alligator.io](https://alligator.io/)                      - Front-End Web Development, Angular 2+, Vue.js, React, Svelte JavaScript, CSS, Node.js...
-* 🆓 [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
-* 🆓 [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
-* 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
-* 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
-* 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
-* 🆓 [CSS-Tricks](https://css-tricks.com/) 			- Web develpment blog
-* 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
-* 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
-* 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
-* 🆓 [Filipe Deschamps](https://filipedeschamps.com.br/)	- Javascript, Node.js, clean code and Open Source
-* 🆓 [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials - (pt_BR)
-* 🆓 [Kriss](https://kriss.io/) 				- React Native
-* 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
-* 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
+- 🆓 [Alligator.io](https://alligator.io/)                      - Front-End Web Development, Angular 2+, Vue.js, React, Svelte JavaScript, CSS, Node.js...
+- 🆓 [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
+- 🆓 [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
+- 🆓 [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
+- 🆓 [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
+- 🆓 [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
+- 🆓 [CSS-Tricks](https://css-tricks.com/) 			- Web develpment blog
+- 🆓 [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
+- 🆓 [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
+- 🆓 [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
+- 🆓 [Filipe Deschamps](https://filipedeschamps.com.br/)	- Javascript, Node.js, clean code and Open Source
+- 🆓 [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials - (pt_BR)
+- 🆓 [Kriss](https://kriss.io/) 				- React Native
+- 🆓 [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
+- 🆓 [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
 
 
 <hr />
@@ -165,14 +165,12 @@
 
 
 ## Helpers
-* 🆓 [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
-* 🆓 [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-* 🆓 [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
-* 🆓 [promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
-* 🆓 [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-* 🆓 [Gitbook](https://app.gitbook.com/)
-* 🆓 [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
-* 🆓 [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+- 🆓 [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
+- 🆓 [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+- 🆓 [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
+- 🆓 [promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
+- 🆓 [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- 🆓 [Gitbook](https://app.gitbook.com/)
 
 
 <hr />
@@ -184,47 +182,47 @@
 
 ## Documentation
 ### General
-* [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [TypeScript](https://www.typescriptlang.org/docs/home.html)
-* [Dart](https://dart.dev/guides)
-* [Node.js](https://nodejs.org/en/docs/)
-* [Sequelize](https://sequelize.org/)
-* [Express](https://expressjs.com/en/guide/routing.html)
-* [AdonisJs](https://adonisjs.com/docs/)
+- [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/docs/home.html)
+- [Dart](https://dart.dev/guides)
+- [Node.js](https://nodejs.org/en/docs/)
+- [Sequelize](https://sequelize.org/)
+- [Express](https://expressjs.com/en/guide/routing.html)
+- [AdonisJs](https://adonisjs.com/docs/)
 
 ### Web library/framework
-* [Reactjs](https://reactjs.org/docs/getting-started.html)
-* [Gatsby.js](https://www.gatsbyjs.org/docs/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
+- [Reactjs](https://reactjs.org/docs/getting-started.html)
+- [Gatsby.js](https://www.gatsbyjs.org/docs/)
+- [Vue.js](https://vuejs.org/)
+- [Angular](https://angular.io/)
 
 ### GraphQL
-* [Relay](https://relay.dev/docs/en/introduction-to-relay.html)
-* [Apollo](https://www.apollographql.com/docs/)
+- [Relay](https://relay.dev/docs/en/introduction-to-relay.html)
+- [Apollo](https://www.apollographql.com/docs/)
 
 ### Test Driven Development (TDD)
-* [Jest](https://jestjs.io/docs/en/getting-started.html)
-* [Mocha](https://mochajs.org/)
+- [Jest](https://jestjs.io/docs/en/getting-started.html)
+- [Mocha](https://mochajs.org/)
 
 ### Mobile framework
-* [Expo](https://docs.expo.io/versions/latest/)
-* [React Native](https://facebook.github.io/react-native/docs/getting-started)
-* [Flutter](https://flutter.dev/docs)
+- [Expo](https://docs.expo.io/versions/latest/)
+- [React Native](https://facebook.github.io/react-native/docs/getting-started)
+- [Flutter](https://flutter.dev/docs)
 
 ### Git docs
-* [GIT BOOK](https://git-scm.com/book/en/v2)
-* [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
+- [GIT BOOK](https://git-scm.com/book/en/v2)
+- [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
 ### UI forms
-* [Formik](https://jaredpalmer.com/formik)
-* [Unform](https://github.com/Rocketseat/unform)
+- [Formik](https://jaredpalmer.com/formik)
+- [Unform](https://github.com/Rocketseat/unform)
 
 ### UI
-* [Material-UI](https://material-ui.com/getting-started/installation/)
-* [reactstrap](https://reactstrap.github.io/)
-* [Materialize](https://materializecss.com/)
-* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-* [Tailwind](https://tailwindcss.com/docs/installation)
+- [Material-UI](https://material-ui.com/getting-started/installation/)
+- [reactstrap](https://reactstrap.github.io/)
+- [Materialize](https://materializecss.com/)
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+- [Tailwind](https://tailwindcss.com/docs/installation)
 
 <hr />
 
@@ -235,10 +233,13 @@
 
 ## Web Development
 ### UX
-* 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
+- 🆓 [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
 
 ### CSS
-* 🆓 [Every layout](https://every-layout.dev/) - Every layout
+- 🆓 [Every layout](https://every-layout.dev/) - Every layout
+- 🆓 [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
+- 🆓 [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
+- 🆓 [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
 
 
 <hr />
@@ -263,7 +264,7 @@
 
 ## Books
 ### JavaScript
-* 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
+- 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
 
 <hr />
