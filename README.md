@@ -223,9 +223,15 @@
 - [Materialize](https://materializecss.com/)
 - [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
+
+	#### Colors
 	- [Piculiar](https://picular.co/) - Google, but for colors
 	- [Coolors](https://coolors.co/) - The super fast color schemes generator!
 	- [CSS Gradient](https://cssgradient.io/) - Nice css gradient
+
+	#### Waves
+	- [Get waves](https://getwaves.io/) - A simple web app to generate svg waves, unique every time
+	
 
 <hr />
 
