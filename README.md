@@ -2,7 +2,8 @@
 	<h3> Awesome web dev resources </h3>
 
 ![](https://badgen.net/github/last-commit/rwietter/awesome-web-dev-resources)
-	
+![](https://badgen.net/github/license/rwietter/awesome-web-dev-resources)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
