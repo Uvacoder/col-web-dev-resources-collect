@@ -31,7 +31,7 @@
 ---
 
 
-#### 🎬 Online Course Platforms
+<h3 align="center> 🎬 Online Course Platforms </h3>
 
 - [HackerRank](https://www.hackerrank.com/) 
 - [Udemy](https://www.udemy.com/)
