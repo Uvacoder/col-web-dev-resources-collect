@@ -2,9 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
 
-#### 📌 Contents
+<details>
+  <summary> Contents </summary>
+  
+  <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+  <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+	
 - [Online Course Platforms](#online-Course-platforms)
-- [Specific Courses](#specific-courses)
+- [Courses](#specific-courses)
 	- [JavaScript](#javascript)
 		- [JavaScript - ES6](#javascript-es6)
 	- [NodeJS](#nodejs)
@@ -36,6 +41,10 @@
     - [Clojure](#clojure)
     - [Java](#java)
     - [Go](#go)
+    
+    <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+</details>
 
 
 
