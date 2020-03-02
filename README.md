@@ -72,7 +72,7 @@
 <hr />
 
 
-#### 🎬 Courses
+#### 🎬 Free Courses
 
 ##### Javascript
 - [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
