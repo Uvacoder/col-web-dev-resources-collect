@@ -235,7 +235,7 @@
 	#### Waves
 	- [Get waves](https://getwaves.io/) - A simple web app to generate svg waves, unique every time
 	#### Fancy border
-	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nive custom fancy border radius
+	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nice custom fancy border radius
 	- [Blobmaker](https://www.blobmaker.app/) - nice custom blobmaker (border-radius)
 	
 ### UX
