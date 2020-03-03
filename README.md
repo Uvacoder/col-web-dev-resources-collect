@@ -246,6 +246,7 @@
 - [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
 - [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+- [CSS autoprefixer library](https://github.com/postcss/autoprefixer)
 
 <hr />
 
