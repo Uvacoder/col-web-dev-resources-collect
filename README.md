@@ -169,8 +169,8 @@
 - [Promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
 - [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) - Syntax
 - [jsPerf](https://jsperf.com/) - JavaScript performance playground
-   - [Frameworks]
-      - [11 amazing graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks
+- [Frameworks]
+ - [11 amazing graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks)
 #### TypeScript
 - [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
 #### CSS
