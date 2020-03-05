@@ -257,10 +257,12 @@
 <hr />
 
 
-## ☁️ Deploy
+## ☁️ Static web publishing
 - 🆓💳 [Zeit](https://zeit.co/)
 - 🆓💳 [Heroku](https://www.heroku.com/)
 - 🆓 [Github pages](https://pages.github.com/)
+- [Glitch](https://glitch.com/)
+- [Surge](https://surge.sh/)
 
 
 <hr />
