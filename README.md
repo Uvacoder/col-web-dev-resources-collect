@@ -249,6 +249,7 @@
 - [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
 - [CSS autoprefixer library](https://github.com/postcss/autoprefixer)
+- [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 
 ### Regular expressions
 - [Regexr](https://regexr.com/)
