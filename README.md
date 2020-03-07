@@ -169,6 +169,7 @@
 - [Promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
 - [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) - Syntax
 - [jsPerf](https://jsperf.com/) - JavaScript performance playground
+  
   - [Frameworks]
     - [11 amazing graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks)
 #### TypeScript
@@ -218,11 +219,18 @@
 - [GIT BOOK](https://git-scm.com/book/en/v2)
 - [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
+### General resources
+- [Devdocs.io](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
+- [Devhints](https://devhints.io/) - collection of web development cheatsheets
+- [Carbon.now.sh](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
+- [Badgen](https://badgen.net/) - Fast badge generating service
+- [Shields](https://shields.io/) -  Fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services.
+
 ### UI forms
 - [Formik](https://jaredpalmer.com/formik)
 - [Unform](https://github.com/Rocketseat/unform)
 
-### UI
+### UI - CSS/HTML/LIBS
 - [Material-UI](https://material-ui.com/getting-started/installation/)
 - [reactstrap](https://reactstrap.github.io/)
 - [Materialize](https://materializecss.com/)
@@ -230,21 +238,29 @@
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [Pure CSS](https://purecss.io/)
 	#### Colors
-	- [Piculiar](https://picular.co/) - Google, but for colors
-	- [Coolors](https://coolors.co/) - The super fast color schemes generator!
-	- [CSS Gradient](https://cssgradient.io/) - Nice css gradient
-	- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) - Curated color palette inspiration.
+	- [Piculiar](https://picular.co/) - google, but for colors
+	- [Coolors](https://coolors.co/) - the super fast color schemes generator!
+	- [CSS Gradient](https://cssgradient.io/) - nice css gradient
+	- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) - curated color palette inspiration.
 	#### Waves
-	- [Get waves](https://getwaves.io/) - A simple web app to generate svg waves, unique every time
+	- [Get waves](https://getwaves.io/) - a simple web app to generate svg waves, unique every time
 	#### Fancy border
 	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nice custom fancy border radius
 	- [Blobmaker](https://www.blobmaker.app/) - nice custom blobmaker (border-radius)
+	#### Cubic bezier
+	- [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - the cubic-bezier() function defines a Cubic Bezier curve.
+	- [Ceaser](https://matthewlein.com/tools/ceaser) - cubic-bezier creator
+	#### Responsive Typography 
+	- [Responsive Font Calculator](https://websemantics.uk/tools/responsive-font-calculator/) - nice to scale typography smoothly across viewport widths.
 	
 ### UX
-- [Little Big Details](https://littlebigdetails.com/) - Little Big Details is a curated collection of the finer details of design, updated every day.
+- [Little Big Details](https://littlebigdetails.com/) - little Big Details is a curated collection of the finer details of design, updated every day.
 
 ### CSS
+- [CSS-Tricks - Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
+- [CSS-Tricks - Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - A Complete Guide to Grid
 - [Every layout](https://every-layout.dev/) - Every layout
+- [CSS Triggers](https://csstriggers.com/) - find out what CSS properties trigger Paint/Layout/Composite renders
 - [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
 - [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
@@ -253,6 +269,11 @@
 
 ### Regular expressions
 - [Regexr](https://regexr.com/)
+
+### NPM
+- [npms](https://npms.io/) - A better and open source search for node packages
+- [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+- [runpkg](https://www.runpkg.com/) - Nice search for and select a package to explore its contents
 
 <hr />
 
