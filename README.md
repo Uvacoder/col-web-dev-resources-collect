@@ -249,8 +249,14 @@
 	#### Cubic bezier
 	- [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - the cubic-bezier() function defines a Cubic Bezier curve.
 	- [Ceaser](https://matthewlein.com/tools/ceaser) - cubic-bezier creator
-	#### Responsive Typography 
+	#### Responsive CSS 
 	- [Responsive Font Calculator](https://websemantics.uk/tools/responsive-font-calculator/) - nice to scale typography smoothly across viewport widths.
+	- [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/) - Selectors Explained: explanation and specificity
+	- [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
+	#### Browser hacks CSS
+	- [Browserhacks](http://browserhacks.com/) - nice browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
+	#### Autoprefixer
+	- [CSS Autoprefixer](https://autoprefixer.github.io/) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes
 	
 ### UX
 - [Little Big Details](https://littlebigdetails.com/) - little Big Details is a curated collection of the finer details of design, updated every day.
@@ -258,13 +264,13 @@
 ### CSS
 - [CSS-Tricks - Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
 - [CSS-Tricks - Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - A Complete Guide to Grid
-- [Every layout](https://every-layout.dev/) - Every layout
+- [Every layout](https://every-layout.dev/) - Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
 - [CSS Triggers](https://csstriggers.com/) - find out what CSS properties trigger Paint/Layout/Composite renders
 - [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
-- [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/)
-- [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
-- [CSS autoprefixer library](https://github.com/postcss/autoprefixer)
-- [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
+- [Absolute Centering in CSS](https://codepen.io/shshaw/full/gEiDt) - useful techniques for absolute centering in CSS
+- [CSS autoprefixer library](https://github.com/postcss/autoprefixer) - Autoprefixer will use the data based on current browser popularity and property support to apply prefixes for you.
+- [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) - creating Non-Rectangular Headers
+- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) - CSS Selector Reference w3schools
 
 ### Regular expressions
 - [Regexr](https://regexr.com/)
