@@ -67,7 +67,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -95,7 +95,7 @@
  
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -128,7 +128,7 @@
 
 <hr>
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -153,7 +153,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -182,7 +182,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -277,7 +277,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -292,7 +292,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -304,7 +304,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -318,7 +318,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
@@ -329,7 +329,7 @@
 
 <hr />
 
-↑ [back to top](#online-course-platforms)
+↑ [back to top](#resources)
 
 <hr />
 
