@@ -8,12 +8,12 @@
 
 <img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
 
+### Resources
+
 <details>
 	<summary>
 		<strong> contents </strong>
 	</summary>
-
-### Resources
 
 - [Online Course Platforms](#-online-Course-platforms)
 - [Courses](#-courses)
