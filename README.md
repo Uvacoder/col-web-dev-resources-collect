@@ -250,6 +250,9 @@
 - [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
 - [CSS autoprefixer library](https://github.com/postcss/autoprefixer)
 
+### Regular expressions
+- [Regexr](https://regexr.com/)
+
 <hr />
 
 ↑ [back to top](#resources)
