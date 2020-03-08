@@ -195,6 +195,9 @@
 - [Express](https://expressjs.com/en/guide/routing.html)
 - [AdonisJs](https://adonisjs.com/docs/)
 
+### JavaScript
+- [Patterns](http://jstherightway.org/#patterns) - Universal patterns for JavaScript
+
 ### Web library/framework
 - [Reactjs](https://reactjs.org/docs/getting-started.html)
 - [Gatsby.js](https://www.gatsbyjs.org/docs/)
