@@ -227,6 +227,7 @@
 - [Carbon.now.sh](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
 - [Badgen](https://badgen.net/) - Fast badge generating service
 - [Shields](https://shields.io/) -  Fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services.
+- [BeautifyTools](http://beautifytools.com/) - A collection of free online tools for users and developers
 
 ### UI forms
 - [Formik](https://jaredpalmer.com/formik)
