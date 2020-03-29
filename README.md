@@ -191,6 +191,7 @@
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [Dart](https://dart.dev/guides)
 - [Node.js](https://nodejs.org/en/docs/)
+- [Deno](https://deno.land/) - runtime for JavaScript and TypeScript
 - [Sequelize](https://sequelize.org/)
 - [Express](https://expressjs.com/en/guide/routing.html)
 - [AdonisJs](https://adonisjs.com/docs/)
