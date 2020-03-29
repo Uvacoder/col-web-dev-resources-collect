@@ -186,18 +186,33 @@
 <hr />
 
 ## 🌐 Web Development
-### General
+
+## Docs
 - [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### TypeScript
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
+
+### Dart
 - [Dart](https://dart.dev/guides)
-- [Node.js](https://nodejs.org/en/docs/)
-- [Deno](https://deno.land/) - runtime for JavaScript and TypeScript
+
+### Sequelize
 - [Sequelize](https://sequelize.org/)
+
+### Express
 - [Express](https://expressjs.com/en/guide/routing.html)
-- [AdonisJs](https://adonisjs.com/docs/)
 
 ### JavaScript
 - [Patterns](http://jstherightway.org/#patterns) - Universal patterns for JavaScript
+
+### Deno
+- [Deno](https://deno.land/) - runtime for JavaScript and TypeScript
+
+### Nodejs
+- [Node.js](https://nodejs.org/en/docs/)
+
+### Adonis
+- [Adonisjs](https://adonisjs.com/docs/)
 
 ### Web library/framework
 - [Reactjs](https://reactjs.org/docs/getting-started.html)
