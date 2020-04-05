@@ -232,60 +232,79 @@
 - [GIT BOOK](https://git-scm.com/book/en/v2)
 - [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
 
-### General resources
-- [Devdocs.io](https://devdocs.io/) - Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app: HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++…
-- [Devhints](https://devhints.io/) - collection of web development cheatsheets
-- [Carbon.now.sh](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
-- [Badgen](https://badgen.net/) - Fast badge generating service
-- [Shields](https://shields.io/) -  Fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more services.
-- [BeautifyTools](http://beautifytools.com/) - A collection of free online tools for users and developers
+| General resources             		              |	About	                   	                                       |
+| ------------------------------------------------------------|------------------------------------------------------------------------|
+| [Devdocs.io](https://devdocs.io/) 			      | Fast, offline, and free documentation browser for developers           |
+- [Devhints](https://devhints.io/)			      | Collection of web development cheatsheets                              |
+- [Carbon.now.sh](https://carbon.now.sh/)		      | Beautiful images of your source code. 				       |
+- [Badgen](https://badgen.net/)				      | Fast badge generating service					       |
+- [Shields](https://shields.io/)			      | Fast and scalable informational images as badges for GitHub            |
+- [BeautifyTools](http://beautifytools.com/)                  | A collection of free online tools for users and developers  	       |
 
-### UI forms
-- [Formik](https://jaredpalmer.com/formik)
-- [Unform](https://github.com/Rocketseat/unform)
+| UI forms          		  		              |	About	                   	                                       |
+| ------------------------------------------------------------|------------------------------------------------------------------------|
+| [Formik](https://jaredpalmer.com/formik)		      |                                                                        |
+| [Unform](https://github.com/Rocketseat/unform)	      | 								       |
 
-### UI - CSS/HTML/LIBS
-- [Material-UI](https://material-ui.com/getting-started/installation/)
-- [reactstrap](https://reactstrap.github.io/)
-- [Materialize](https://materializecss.com/)
-- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-- [Tailwind](https://tailwindcss.com/docs/installation)
-- [Pure CSS](https://purecss.io/)
-	#### Colors
-	- [Piculiar](https://picular.co/) - google, but for colors
-	- [Coolors](https://coolors.co/) - the super fast color schemes generator!
-	- [CSS Gradient](https://cssgradient.io/) - nice css gradient
-	- [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) - curated color palette inspiration.
-	#### Waves
-	- [Get waves](https://getwaves.io/) - a simple web app to generate svg waves, unique every time
-	#### Fancy border
-	- [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) - nice custom fancy border radius
-	- [Blobmaker](https://www.blobmaker.app/) - nice custom blobmaker (border-radius)
-	#### Cubic bezier
-	- [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - the cubic-bezier() function defines a Cubic Bezier curve.
-	- [Ceaser](https://matthewlein.com/tools/ceaser) - cubic-bezier creator
-	#### Responsive CSS 
-	- [Responsive Font Calculator](https://websemantics.uk/tools/responsive-font-calculator/) - nice to scale typography smoothly across viewport widths.
-	- [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/) - Selectors Explained: explanation and specificity
-	- [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)
-	#### Browser hacks CSS
-	- [Browserhacks](http://browserhacks.com/) - nice browserhacks is an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs.
-	#### Autoprefixer
-	- [CSS Autoprefixer](https://autoprefixer.github.io/) - Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes
+| UI - CSS/HTML/LIBS            		              |	About	                   	                                       |
+| ------------------------------------------------------------|------------------------------------------------------------------------|
+| [Material-UI](https://material-ui.com/getting-started/installation/)		|					               |
+| [reactstrap](https://reactstrap.github.io/)					|					               |
+| [Materialize](https://materializecss.com/)					|					               |
+| [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)	|					               |
+| [Tailwind](https://tailwindcss.com/docs/installation)				|					               |
+| [Pure CSS](https://purecss.io/)						|					               |
+
+| Colors            				                |	About	               	                                       |
+| --------------------------------------------------------------|----------------------------------------------------------------------|
+| [Piculiar](https://picular.co/)				| Google, but for colors					       |
+| [Coolors](https://coolors.co/)				| The super fast color schemes generator!			       |
+| [CSS Gradient](https://cssgradient.io/)			| Nice css gradient						       |
+| [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) | curated color palette inspiration.			       |
+
+| Waves            				                |	About	               	                                       |
+| --------------------------------------------------------------|----------------------------------------------------------------------|
+| [Get waves](https://getwaves.io/)				| A simple web app to generate svg waves, unique every time            |
+
+| Fancy border            			                          |	About	               	                               |
+| ------------------------------------------------------------------------|------------------------------------------------------------|
+| [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) | Nice custom fancy border radius			       |
+| [Blobmaker](https://www.blobmaker.app/)				  | Nice custom blobmaker (border-radius)		       |
+
+| Cubic bezier            			                          |	About	               	                               |
+| ------------------------------------------------------------------------|------------------------------------------------------------|
+| [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)		  | The cubic-bezier() function defines a Cubic Bezier curve   |
+| [Ceaser](https://matthewlein.com/tools/ceaser)			  | Cubic-bezier creator			               |
+
+| Responsive CSS            			                                   |	About	                                      |
+| ---------------------------------------------------------------------------------|--------------------------------------------------|
+| [Font Calculator](https://websemantics.uk/tools/responsive-font-calculator/) 	   | Typography smoothly across viewport widths	      |
+| [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/) | Selectors Explained: explanation and specificity |
+| [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)   | 						      |
+
+| Browser hacks CSS            			                                   |	About	                                      |
+| ---------------------------------------------------------------------------------|--------------------------------------------------|
+| [Browserhacks](http://browserhacks.com/)					   | browser specific CSS and JavaScript hacks	      |
+
+| Autoprefixer CSS            			      |	About	                                                                       |
+| ----------------------------------------------------|--------------------------------------------------------------------------------|
+| [CSS Autoprefixer](https://autoprefixer.github.io/) | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes|
 	
-### UX
-- [Little Big Details](https://littlebigdetails.com/) - little Big Details is a curated collection of the finer details of design, updated every day.
+| User Experience            			      |	About	                                                                       |
+| ----------------------------------------------------|--------------------------------------------------------------------------------|
+| [Little Big Details](https://littlebigdetails.com/) | Collection of the finer details of design, updated every day		       |
 
-### CSS
-- [CSS-Tricks - Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox
-- [CSS-Tricks - Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - A Complete Guide to Grid
-- [Every layout](https://every-layout.dev/) - Every Layout will teach you how to better harness the built-in algorithms that power browsers and CSS.
-- [CSS Triggers](https://csstriggers.com/) - find out what CSS properties trigger Paint/Layout/Composite renders
-- [CSS Icons](https://css.gg/) - Minimalistic icon library Designed by code.
-- [Absolute Centering in CSS](https://codepen.io/shshaw/full/gEiDt) - useful techniques for absolute centering in CSS
-- [CSS autoprefixer library](https://github.com/postcss/autoprefixer) - Autoprefixer will use the data based on current browser popularity and property support to apply prefixes for you.
-- [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) - creating Non-Rectangular Headers
-- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) - CSS Selector Reference w3schools
+| CSS        		    			     					|	About	                               |
+| --------------------------------------------------------------------------------------|----------------------------------------------|
+| [CSS-Tricks - Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | A Complete Guide to Flexbox		       |
+| [CSS-Tricks - Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) 	| A Complete Guide to Grid		       |
+| [Every layout](https://every-layout.dev/) | Every Layout will teach you how to better harness the built-in algorithms		       | 
+| [CSS Triggers](https://csstriggers.com/)  | Find out what CSS properties trigger Paint/Layout/Composite renders                      |
+| [CSS Icons](https://css.gg/)		    | Minimalistic icon library Designed by code                                               |
+| [Absolute Centering in CSS](https://codepen.io/shshaw/full/gEiDt) | Useful techniques for absolute centering in CSS                  |
+| [CSS autoprefixer library](https://github.com/postcss/autoprefixer) | Autoprefixer will use the data based on current browser        |
+| [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) | Creating Non-Rectangular Headers	       | 
+| [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) | CSS Selector Reference w3schools                               |
 
 ### Regular expressions
 - [Regexr](https://regexr.com/)
