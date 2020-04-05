@@ -161,13 +161,19 @@
 | [jsPerf](https://jsperf.com/)						| JavaScript performance playground 			      |
 | [11 graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks) | Framework |
 
+---
+
 | TypeScript								  |	About						      |
 | ------------------------------------------------------------------------|-----------------------------------------------------------|
 | [TypeScript Playground](https://www.typescriptlang.org/play/index.html) | Typescript transpiler				      |
 
+---
+
 | CSS								  	  |	About						      |
 | ------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Can I use](https://caniuse.com/#home)				  | "Can I use" provides up-to-date browser support           |
+
+--
 
 | Git								  	  |	About						      |
 | ------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -235,16 +241,20 @@
 | General resources             		              |	About	                   	                                       |
 | ------------------------------------------------------------|------------------------------------------------------------------------|
 | [Devdocs.io](https://devdocs.io/) 			      | Fast, offline, and free documentation browser for developers           |
-- [Devhints](https://devhints.io/)			      | Collection of web development cheatsheets                              |
-- [Carbon.now.sh](https://carbon.now.sh/)		      | Beautiful images of your source code. 				       |
-- [Badgen](https://badgen.net/)				      | Fast badge generating service					       |
-- [Shields](https://shields.io/)			      | Fast and scalable informational images as badges for GitHub            |
-- [BeautifyTools](http://beautifytools.com/)                  | A collection of free online tools for users and developers  	       |
+| [Devhints](https://devhints.io/)			      | Collection of web development cheatsheets                              |
+| [Carbon.now.sh](https://carbon.now.sh/)		      | Beautiful images of your source code. 				       |
+| [Badgen](https://badgen.net/)				      | Fast badge generating service					       |
+| [Shields](https://shields.io/)			      | Fast and scalable informational images as badges for GitHub            |
+| [BeautifyTools](http://beautifytools.com/)                  | A collection of free online tools for users and developers  	       |
+
+---
 
 | UI forms          		  		              |	About	                   	                                       |
 | ------------------------------------------------------------|------------------------------------------------------------------------|
 | [Formik](https://jaredpalmer.com/formik)		      |                                                                        |
 | [Unform](https://github.com/Rocketseat/unform)	      | 								       |
+
+---
 
 | UI - CSS/HTML/LIBS            		              |	About	                   	                                       |
 | ------------------------------------------------------------|------------------------------------------------------------------------|
@@ -255,6 +265,8 @@
 | [Tailwind](https://tailwindcss.com/docs/installation)				|					               |
 | [Pure CSS](https://purecss.io/)						|					               |
 
+---
+
 | Colors            				                |	About	               	                                       |
 | --------------------------------------------------------------|----------------------------------------------------------------------|
 | [Piculiar](https://picular.co/)				| Google, but for colors					       |
@@ -262,19 +274,27 @@
 | [CSS Gradient](https://cssgradient.io/)			| Nice css gradient						       |
 | [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) | curated color palette inspiration.			       |
 
+---
+
 | Waves            				                |	About	               	                                       |
 | --------------------------------------------------------------|----------------------------------------------------------------------|
 | [Get waves](https://getwaves.io/)				| A simple web app to generate svg waves, unique every time            |
+
+---
 
 | Fancy border            			                          |	About	               	                               |
 | ------------------------------------------------------------------------|------------------------------------------------------------|
 | [Fancy-border-radius](https://9elements.github.io/fancy-border-radius/) | Nice custom fancy border radius			       |
 | [Blobmaker](https://www.blobmaker.app/)				  | Nice custom blobmaker (border-radius)		       |
 
+---
+
 | Cubic bezier            			                          |	About	               	                               |
 | ------------------------------------------------------------------------|------------------------------------------------------------|
 | [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)		  | The cubic-bezier() function defines a Cubic Bezier curve   |
 | [Ceaser](https://matthewlein.com/tools/ceaser)			  | Cubic-bezier creator			               |
+
+---
 
 | Responsive CSS            			                                   |	About	                                      |
 | ---------------------------------------------------------------------------------|--------------------------------------------------|
@@ -282,17 +302,25 @@
 | [Selectors Explained - CSS](https://hugogiraudel.github.io/selectors-explained/) | Selectors Explained: explanation and specificity |
 | [CSS Specificity calculator](https://polypane.app/css-specificity-calculator/)   | 						      |
 
+---
+
 | Browser hacks CSS            			                                   |	About	                                      |
 | ---------------------------------------------------------------------------------|--------------------------------------------------|
 | [Browserhacks](http://browserhacks.com/)					   | browser specific CSS and JavaScript hacks	      |
 
+---
+
 | Autoprefixer CSS            			      |	About	                                                                       |
 | ----------------------------------------------------|--------------------------------------------------------------------------------|
 | [CSS Autoprefixer](https://autoprefixer.github.io/) | Autoprefixer is a PostCSS plugin which parses your CSS and adds vendor prefixes|
-	
+
+---
+
 | User Experience            			      |	About	                                                                       |
 | ----------------------------------------------------|--------------------------------------------------------------------------------|
 | [Little Big Details](https://littlebigdetails.com/) | Collection of the finer details of design, updated every day		       |
+
+---
 
 | CSS        		    			     					|	About	                               |
 | --------------------------------------------------------------------------------------|----------------------------------------------|
