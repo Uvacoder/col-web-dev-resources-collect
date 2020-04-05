@@ -34,11 +34,7 @@
 
 </details>
 
-
-
 ---
-
-
 
 #### 🎬 Online Course Platforms
 | Plataform	 			  			 | About		  					|
@@ -103,32 +99,18 @@
 
 <hr />
 
+
 #### 💡 Coding challenge: learn by doing
 
-- #### [HackerRank](https://www.hackerrank.com/)
-    - HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 2,000+ companies around the world. By enabling tech recruiters and hiring managers to objectively evaluate talent at every stage of the recruiting process, HackerRank helps companies hire skilled developers and innovate faster.
-    
-- #### [Codewars](https://www.codewars.com/) 
-    - Achieve code mastery through challenge.
-    
-- #### [Firecode.io](https://www.firecode.io/)
-    - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
-    
-- #### [LeetCode](https://leetcode.com/)
-    - Level up your coding skills.
-    
-- #### [Edabit](https://edabit.com/)
-    - Most beginners jump from memorizing syntax directly into making stuff (or trying) without fully understanding how syntax is used to solve problems. In other words, they haven't learned how to think like a programmer, yet they're trying to solve problems like a programmer. Edabit was created to bridge this gap, while also making the process fun and addictive.
-    
-- #### [RealDev](https://real.dev)
-    - Real Dev is a platform to challenge developers with real-life coding tasks. It's a platform to learn backend and frontend projects by doing.
-    
-- #### [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)
-    - Topcoder (formerly TopCoder) is a crowdsourcing company with an open global community of designers, developers, data scientists, and competitive programmers. Topcoder pays community members for their work on the projects and sells community services to corporate, mid-size, and small-business clients. Topcoder also organizes the annual Topcoder Open tournament and a series of smaller regional events.
-    
-- #### [Exercism.io](https://exercism.io/) 
-    - Level up your programming skills with 3,135 exercises across 51 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.
-
+| Plataform								|	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------|
+| [HackerRank](https://www.hackerrank.com/)				| Algorithms and solve challenges			      |
+| [Codewars](https://www.codewars.com/) 				| Achieve code mastery through challenge.		      |
+| [Firecode.io](https://www.firecode.io/)				| 							      |
+| [LeetCode](https://leetcode.com/)					| Level up your coding skills				      |
+| [Edabit](https://edabit.com/)						|							      |
+| [RealDev](https://real.dev)						| challenge developers with real-life coding tasks	      |	| [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)		| competitive programmers				      |
+| [Exercism.io](https://exercism.io/) 					| Level up your programming skills			      |
 
 <hr>
 
@@ -136,23 +118,25 @@
 
 <hr />
 
-
 ## 👀 Blogs
-- [Alligator.io](https://alligator.io/)                      - Front-End Web Development, Angular 2+, Vue.js, React, Svelte JavaScript, CSS, Node.js...
-- [Overreacted](https://overreacted.io/)			- Personal blog by Dan Abramov
-- [JavaScript January](https://www.javascriptjanuary.com/)	- Collection of blogs and tutorials on JavaScript
-- [David Walsh](https://davidwalsh.name/) 			- JavaScript, Node.js, JQuery, React.js and more...
-- [SitePoint](https://www.sitepoint.com/blog/) 		- Programming, web development, entrepreneurship and more...
-- [A List Apart](https://alistapart.com/blog/topic/code/) 	- Programming and development/design blog
-- [CSS-Tricks](https://css-tricks.com/) 			- Web develpment blog
-- [Rocketseat](https://blog.rocketseat.com.br/) 		- JavaScript, Node, React, React Native (pt-BR)
-- [Flavio Copes](https://flaviocopes.com/) 			- 1102+ tutorials published (Back-end and Front-end)
-- [Willian Justen](https://willianjusten.com.br/) 		- Front-end - (pt-BR)
-- [Filipe Deschamps](https://filipedeschamps.com.br/)	- Javascript, Node.js, clean code and Open Source
-- [FreeCodeCamp](https://www.freecodecamp.org/news/)		- 5.000+ tutorials - (pt_BR)
-- [Kriss](https://kriss.io/) 				- React Native
-- [The State of CSS 2019](https://2019.stateofcss.com/)	- The State of CSS Survey
-- [The State of JavaScript 2019](https://2019.stateofjs.com/) - The State of JavaScript Survey
+
+| Plataform							|	About						      |
+| --------------------------------------------------------------|-------------------------------------------------------------| 
+| [Alligator.io](https://alligator.io/)				| Front-End Web Development				      |
+| [Overreacted](https://overreacted.io/)			| Personal blog by Dan Abramov	                              |
+| [JavaScript January](https://www.javascriptjanuary.com/)	| Collection of blogs and tutorials on JavaScript	      |
+| [David Walsh](https://davidwalsh.name/) 			| JavaScript, Node.js, JQuery, React.js and more...	      |
+| [SitePoint](https://www.sitepoint.com/blog/) 			| Programming, web development, entrepreneurship and more...  |
+| [A List Apart](https://alistapart.com/blog/topic/code/) 	| Programming and development/design blog		      |
+| [CSS-Tricks](https://css-tricks.com/) 			| Web develpment blog	     				      |
+| [Rocketseat](https://blog.rocketseat.com.br/) 		| JavaScript, Node, React, React Native (pt-BR)	      	      |
+| [Flavio Copes](https://flaviocopes.com/) 			| 1102+ tutorials published (Back-end and Front-end)	      |
+| [Willian Justen](https://willianjusten.com.br/) 		| Front-end - (pt-BR)	   				      |
+| [Filipe Deschamps](https://filipedeschamps.com.br/)		| Javascript, Node.js, clean code and Open Source	      |
+| [FreeCodeCamp](https://www.freecodecamp.org/news/)		| 5.000+ tutorials - (pt_BR)	      			      |
+| [Kriss](https://kriss.io/) 					| React Native					      	      |
+| [The State of CSS 2019](https://2019.stateofcss.com/)		| The State of CSS Survey	  			      |
+| [The State of JavaScript 2019](https://2019.stateofjs.com/) 	| The State of JavaScript Survey	                      |
 
 
 <hr />
@@ -163,24 +147,31 @@
 
 
 ## ℹ️ Helpers
-#### JavaScript
-- [babeljs](https://bit.ly/35iUI8s) - Babeljs.io
-- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - Nice JavaScript visualizer context
-- [Does it mutate ?](https://doesitmutate.xyz/) Nice tool for mutates and no mutation in JavaScript
-- [Keycode events](http://keycode.info/) - Keycode click events for JavaScript
-- [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects
-- [ECMAScript Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
-- [Promises playground](http://bevacqua.github.io/promisees/) - Promises visualizer
-- [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) - Syntax
-- [jsPerf](https://jsperf.com/) - JavaScript performance playground 
-  - Frameworks
-    - [11 amazing graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks)
-#### TypeScript
-- [TypeScript Playground](https://www.typescriptlang.org/play/index.html) - Typescript transpiler
-#### CSS
-- [Can | use](https://caniuse.com/#home) - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-#### Gitdocs
-- [Gitbook](https://app.gitbook.com/)
+
+| JavaScript								|	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [babeljs](https://bit.ly/35iUI8s)					| Babeljs.io						      |
+| [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) | Nice JavaScript visualizer context		      |
+| [Does it mutate ?](https://doesitmutate.xyz/) 			| Nice tool for mutates and no mutation in JavaScript	      |
+| [Keycode events](http://keycode.info/)				| Keycode click events for JavaScript			      |
+| [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/) | Cheatsheet for the JavaScript, encounter modern projects | 
+| [ECMAScript Proposals](https://github.com/tc39/proposals)		| Tracking ECMAScript Proposals				      |
+| [Promises playground](http://bevacqua.github.io/promisees/)		| Promises visualizer					      |
+| [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) | Syntax|
+| [jsPerf](https://jsperf.com/)						| JavaScript performance playground 			      |
+| [11 graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks) | Framework |
+
+| TypeScript								  |	About						      |
+| ------------------------------------------------------------------------|-----------------------------------------------------------|
+| [TypeScript Playground](https://www.typescriptlang.org/play/index.html) | Typescript transpiler				      |
+
+| CSS								  	  |	About						      |
+| ------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Can | use](https://caniuse.com/#home)				  | "Can I use" provides up-to-date browser support           |
+
+| Git								  	  |	About						      |
+| ------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Gitbook](https://app.gitbook.com/)					  | Git docs book					      |
 
 
 <hr />
