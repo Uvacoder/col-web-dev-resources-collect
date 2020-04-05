@@ -167,7 +167,7 @@
 
 | CSS								  	  |	About						      |
 | ------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Can | use](https://caniuse.com/#home)				  | "Can I use" provides up-to-date browser support           |
+| [Can I use](https://caniuse.com/#home)				  | "Can I use" provides up-to-date browser support           |
 
 | Git								  	  |	About						      |
 | ------------------------------------------------------------------------|-----------------------------------------------------------|
