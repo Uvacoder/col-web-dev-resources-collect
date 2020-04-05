@@ -76,23 +76,25 @@
 
 #### 🎬 Free Courses
 
-##### Javascript
-- [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		- (pt-BR)
-- [javascript for beginners - Codewars](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)
-- [Javascript30](https://javascript30.com/)
+| Javascript											|	About			|
+| ----------------------------------------------------------------------------------------------|-------------------------------|
+| [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		|				|
+| [javascript for beginners (Codewars)](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) |				|
+| [Javascript30](https://javascript30.com/)							|				|
+| [Javascript (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	|				|
 
-##### Javascript ES6
-- [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	- (pt-BR)
+| Nodejs											|	About			|
+| ----------------------------------------------------------------------------------------------|-------------------------------|
+| [Node.js (NodeBR)](https://treinamento.nodebr.org/)						|				|
+| [Node.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-node-js)			|				|
 
-##### Nodejs
-- [Node.js - NodeBR](https://treinamento.nodebr.org/)						- (pt-BR)
-- [Node.js - Rocketseat](https://skylab.rocketseat.com.br/node/curso-node-js)			- (pt-BR)
+| Reactjs											|	About			|
+| ----------------------------------------------------------------------------------------------|-------------------------------|
+| [React.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-js)			|				|
 
-##### Reactjs
-- [React.js - Rocketseat](https://skylab.rocketseat.com.br/node/curso-react-js)		- (pt-BR)
-
-##### React Native
-- [React Native - Rocketseat](https://skylab.rocketseat.com.br/node/curso-react-native)	- (pt-BR)
+| React Native											|	About			|
+| ----------------------------------------------------------------------------------------------|-------------------------------|
+| [React Native (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-native)		|				|
  
  
 <hr />
