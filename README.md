@@ -277,6 +277,12 @@
 
 ---
 
+| Icons            				                |	About	               	                                       |
+| --------------------------------------------------------------|----------------------------------------------------------------------|
+| [Iconmonstr](https://iconmonstr.com/)				| Discover 4496+ free icons in 313 collections		               |
+
+---
+
 | Waves            				                |	About	               	                                       |
 | --------------------------------------------------------------|----------------------------------------------------------------------|
 | [Get waves](https://getwaves.io/)				| A simple web app to generate svg waves, unique every time            |
