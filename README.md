@@ -77,14 +77,20 @@
 | [Javascript30](https://javascript30.com/)							|				|
 | [Javascript (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	|				|
 
+---
+
 | Nodejs											|	About			|
 | ----------------------------------------------------------------------------------------------|-------------------------------|
 | [Node.js (NodeBR)](https://treinamento.nodebr.org/)						|				|
 | [Node.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-node-js)			|				|
 
+---
+
 | Reactjs											|	About			|
 | ----------------------------------------------------------------------------------------------|-------------------------------|
 | [React.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-js)			|				|
+
+---
 
 | React Native											|	About			|
 | ----------------------------------------------------------------------------------------------|-------------------------------|
@@ -116,7 +122,7 @@
 
 <hr />
 
-## 👀 Blogs
+#### 👀 Blogs
 
 | Plataform							|	About						      |
 | --------------------------------------------------------------|-------------------------------------------------------------| 
@@ -144,7 +150,7 @@
 <hr />
 
 
-## ℹ️ Helpers
+#### ℹ️ Helpers
 
 | JavaScript								|	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
@@ -168,7 +174,7 @@
 
 <hr />
 
-### 🌐 Web Development
+#### 🌐 Web Development
 
 | Docs				   				        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
@@ -391,7 +397,8 @@
 
 <hr />
 
-| ☁️ Web server side        	      	     		        |	About	                                                |
+#### ☁️ Web server side  
+| Web server side        	      	     		        |	About	                                                |
 | --------------------------------------------------------------|---------------------------------------------------------------|
 | [Zeit](https://zeit.co/)					|								|
 | [Heroku](https://www.heroku.com/)				|								|
@@ -407,7 +414,7 @@
 <hr />
 
 
-### 📚 Books
+#### 📚 Books
 | JavaScript       	   	      	     		        |	About	                                                |
 | --------------------------------------------------------------|---------------------------------------------------------------|
 | [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html) |						|
@@ -419,8 +426,8 @@
 
 <hr />
 
-
-| 👩🏻‍💻 Agile       	   	      	     		         |	About	                                    	         |
+#### 🏻‍💻 Agile
+| Agile       	   	      	     		                |	About	                                    	        |
 | --------------------------------------------------------------|---------------------------------------------------------------|
 | [Notion](www.notion.so)					|								|
 | [MeisterTask](https://www.meistertask.com/)			|								|
@@ -434,8 +441,8 @@
 
 <hr />
 
-
-| ⏳ Project management tool      	      	               |	About	                                    	             |
+#### ⏳ Project management tool
+| Project management tool      	      	                        |	About	                                       	              |
 | --------------------------------------------------------------|---------------------------------------------------------------------|
 | [Clickup](https://clickup.com/) | ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.|
 
