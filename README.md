@@ -296,7 +296,7 @@
 
 ---
 
-| Cubic bezier            			                          |	About	               	                               |
+| Cubic		            			                          |	About	               	                               |
 | ------------------------------------------------------------------------|------------------------------------------------------------|
 | [Cubic bezier](https://cubic-bezier.com/#.17,.67,.83,.67)		  | The cubic-bezier() function defines a Cubic Bezier curve   |
 | [Ceaser](https://matthewlein.com/tools/ceaser)			  | Cubic-bezier creator			               |
