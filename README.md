@@ -168,40 +168,68 @@
 
 <hr />
 
-## 🌐 Web Development
+### 🌐 Web Development
 
-## Docs
-- [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+| Docs				   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | JavaScript/ECMAScript documentation by Mozilla    |
 
-### TypeScript
-- [TypeScript](https://www.typescriptlang.org/docs/home.html)
+---
 
-### Dart
-- [Dart](https://dart.dev/guides)
+| TypeScript			   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [TypeScript](https://www.typescriptlang.org/docs/home.html)		| TypeScript official documentation			      |
 
-### Sequelize
-- [Sequelize](https://sequelize.org/)
+---
 
-### Express
-- [Express](https://expressjs.com/en/guide/routing.html)
+| Dart				   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Dart](https://dart.dev/guides)					| Dar official documentation				      |
 
-### JavaScript
-- [Patterns](http://jstherightway.org/#patterns) - Universal patterns for JavaScript
+---
 
-### Deno
-- [Deno](https://deno.land/) - runtime for JavaScript and TypeScript
+| Sequelize			   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Sequelize](https://sequelize.org/)					| Sequelize ORM documentation			              |
 
-### Nodejs
-- [Node.js](https://nodejs.org/en/docs/)
+---
 
-### Adonis
-- [Adonisjs](https://adonisjs.com/docs/)
+| Express			   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Express](https://expressjs.com/en/guide/routing.html)		| Express framework documentation			      |
 
-### Web library/framework
-- [Reactjs](https://reactjs.org/docs/getting-started.html)
-- [Gatsby.js](https://www.gatsbyjs.org/docs/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
+---
+
+| JavaScript			   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Patterns](http://jstherightway.org/#patterns)			| Universal patterns for JavaScript			      |
+
+---
+
+| Deno			   					        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Deno](https://deno.land/)						| runtime for JavaScript and TypeScript			      |
+
+---
+
+| Nodejs		   					        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Node.js](https://nodejs.org/en/docs/)				| runtime for JavaScript				      |
+
+---
+
+| Adonis		   					        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Adonisjs](https://adonisjs.com/docs/)				| runtime for JavaScript				      |
+
+---
+
+| Web library/framework		  				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Reactjs](https://reactjs.org/docs/getting-started.html)		|							      |
+| [Gatsby.js](https://www.gatsbyjs.org/docs/)				|							      |
+| [Vue.js](https://vuejs.org/)						|							      |
+| [Angular](https://angular.io/)					|							      |	
 
 ---
 
@@ -379,9 +407,10 @@
 <hr />
 
 
-## 📚 Books
-### JavaScript
-[Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
+### 📚 Books
+| JavaScript       	   	      	     		        |	About	                                                |
+| --------------------------------------------------------------|---------------------------------------------------------------|
+| [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html) |						|
 
 
 <hr />
@@ -391,11 +420,12 @@
 <hr />
 
 
-## 👩🏻‍💻 Agile
-[Notion](www.notion.so)
-[MeisterTask](https://www.meistertask.com/)
-[Trello](https://trello.com/)
-[Asana](https://asana.com/)
+| 👩🏻‍💻 Agile       	   	      	     		         |	About	                                    	         |
+| --------------------------------------------------------------|---------------------------------------------------------------|
+| [Notion](www.notion.so)					|								|
+| [MeisterTask](https://www.meistertask.com/)			|								|
+| [Trello](https://trello.com/)					|								|
+| [Asana](https://asana.com/)					|								|
 
 
 <hr />
@@ -405,8 +435,9 @@
 <hr />
 
 
-## ⏳ Project management tool
-[Clickup](https://clickup.com/) - ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.
+| ⏳ Project management tool      	      	               |	About	                                    	             |
+| --------------------------------------------------------------|---------------------------------------------------------------------|
+| [Clickup](https://clickup.com/) | ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.|
 
 
 <hr />
