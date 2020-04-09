@@ -160,6 +160,7 @@
 | [Module import/export](https://stackoverflow.com/questions/25494365/es6-javascript-module-export-options/34842087#34842087) | Syntax|
 | [jsPerf](https://jsperf.com/)						| JavaScript performance playground 			      |
 | [11 graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks) | Framework |
+| [Unicode](https://home.unicode.org)					| Standard for Text and Emoji				      |
 
 ---
 
