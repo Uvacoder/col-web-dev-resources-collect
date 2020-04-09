@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/euiciowr/responsive-layout/master/design/cover_gh%402x.png"/>
-
 ### Resources
 
 <details>
@@ -263,6 +261,7 @@
 | [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)	|					               |
 | [Tailwind](https://tailwindcss.com/docs/installation)				|					               |
 | [Pure CSS](https://purecss.io/)						|					               |
+| [Chakra UI](https://chakra-ui.com/getting-started)				|						       |
 
 ---
 
@@ -333,6 +332,8 @@
 | --------------------------------------------------------------------------------------|----------------------------------------------|
 | [CSS-Tricks - Flexbox guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | A Complete Guide to Flexbox		       |
 | [CSS-Tricks - Grid guide](https://css-tricks.com/snippets/css/complete-guide-grid/) 	| A Complete Guide to Grid		       |
+| [CSS Advanced](https://marksheet.io/css-advanced.html)	     | Learn advanced CSS					       |
+| [CSS4 Selectors](https://css4-selectors.com/browser-selector-test/) | Browser CSS Selector Test			 	       |
 | [Every layout](https://every-layout.dev/) | Every Layout will teach you how to better harness the built-in algorithms		       | 
 | [CSS Triggers](https://csstriggers.com/)  | Find out what CSS properties trigger Paint/Layout/Composite renders                      |
 | [CSS Icons](https://css.gg/)		    | Minimalistic icon library Designed by code                                               |
@@ -340,8 +341,7 @@
 | [CSS autoprefixer library](https://github.com/postcss/autoprefixer) | Autoprefixer will use the data based on current browser        |
 | [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) | Creating Non-Rectangular Headers	       | 
 | [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) | CSS Selector Reference w3schools                               |
-| [CSS4 Selectors](https://css4-selectors.com/browser-selector-test/) | Browser CSS Selector Test			 	       |
-| [Can I use](https://caniuse.com/#home)			      | "Can I use" provides up-to-date browser support            |
+| [Can I use](https://caniuse.com/#home)			      | "Can I use" provides up-to-date browser support                |
 
 ---
 
