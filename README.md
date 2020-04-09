@@ -161,25 +161,7 @@
 | [jsPerf](https://jsperf.com/)						| JavaScript performance playground 			      |
 | [11 graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks) | Framework |
 | [Unicode](https://home.unicode.org)					| Standard for Text and Emoji				      |
-
-
----
-
-| TypeScript								  |	About						      |
-| ------------------------------------------------------------------------|-----------------------------------------------------------|
 | [TypeScript Playground](https://www.typescriptlang.org/play/index.html) | Typescript transpiler				      |
-
----
-
-| CSS								  	  |	About						      |
-| ------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Can I use](https://caniuse.com/#home)				  | "Can I use" provides up-to-date browser support           |
-
----
-
-| Git								  	  |	About						      |
-| ------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Gitbook](https://app.gitbook.com/)					  | Git docs book					      |
 
 
 <hr />
@@ -223,22 +205,37 @@
 - [Vue.js](https://vuejs.org/)
 - [Angular](https://angular.io/)
 
-### GraphQL
-- [Relay](https://relay.dev/docs/en/introduction-to-relay.html)
-- [Apollo](https://www.apollographql.com/docs/)
+---
 
-### Test Driven Development (TDD)
-- [Jest](https://jestjs.io/docs/en/getting-started.html)
-- [Mocha](https://mochajs.org/)
+| GraphQL							                | About						      |
+| ------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Relay](https://relay.dev/docs/en/introduction-to-relay.html)			|						      |
+| [Apollo](https://www.apollographql.com/docs/)					|						      |
 
-### Mobile framework
-- [Expo](https://docs.expo.io/versions/latest/)
-- [React Native](https://facebook.github.io/react-native/docs/getting-started)
-- [Flutter](https://flutter.dev/docs)
+---
 
-### Git docs
-- [GIT BOOK](https://git-scm.com/book/en/v2)
-- [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)
+| Test Driven Development (TDD)					                | About						      |
+| ------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Jest](https://jestjs.io/docs/en/getting-started.html)			|						      |
+| [Mocha](https://mochajs.org/)							|						      |
+
+---
+
+| Mobile framework						  	        | About						      |
+| ------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Expo](https://docs.expo.io/versions/latest/)					|						      |
+| [React Native](https://facebook.github.io/react-native/docs/getting-started)	|						      |
+| [Flutter](https://flutter.dev/docs)						|						      |
+
+---
+
+| Git								  	        | About						      |
+| ------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Gitbook](https://app.gitbook.com/)						| Git docs book 				      |
+| [GIT BOOK](https://git-scm.com/book/en/v2)					|						      |
+| [GIT FAQ](https://git-faq.readthedocs.io/pt_BR/latest/extra/materiais.html)	|						      |
+
+---
 
 | General resources             		              |	About	                   	                                       |
 | ------------------------------------------------------------|------------------------------------------------------------------------|
@@ -343,14 +340,22 @@
 | [CSS autoprefixer library](https://github.com/postcss/autoprefixer) | Autoprefixer will use the data based on current browser        |
 | [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) | Creating Non-Rectangular Headers	       | 
 | [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) | CSS Selector Reference w3schools                               |
+| [CSS4 Selectors](https://css4-selectors.com/browser-selector-test/) | Browser CSS Selector Test			 	       |
+| [Can I use](https://caniuse.com/#home)			      | "Can I use" provides up-to-date browser support            |
 
-### Regular expressions
-- [Regexr](https://regexr.com/)
+---
 
-### NPM
-- [npms](https://npms.io/) - A better and open source search for node packages
-- [Bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
-- [runpkg](https://www.runpkg.com/) - Nice search for and select a package to explore its contents
+| Regular expressions          			     					|	About	                               |
+| --------------------------------------------------------------------------------------|----------------------------------------------|
+| [Regexr](https://regexr.com/)					| Regular expressions playground				       |
+
+---
+
+| NPM        		    			     					|	About	                               |
+| --------------------------------------------------------------------------------------|----------------------------------------------|
+| [npms](https://npms.io/) 					| A better and open source search for node packages		       |
+| [Bundlephobia](https://bundlephobia.com/)			| Find the cost of adding a npm package to your bundle		       |
+| [runpkg](https://www.runpkg.com/)				| Nice search for and select a package to explore its contents	       |
 
 <hr />
 
@@ -358,13 +363,13 @@
 
 <hr />
 
-
-## ☁️ Static web publishing
-- 🆓💳 [Zeit](https://zeit.co/)
-- 🆓💳 [Heroku](https://www.heroku.com/)
-- 🆓 [Github pages](https://pages.github.com/)
-- [Glitch](https://glitch.com/)
-- [Surge](https://surge.sh/)
+| ☁️ Web server side        	      	     		        |	About	                                                |
+| --------------------------------------------------------------|---------------------------------------------------------------|
+| [Zeit](https://zeit.co/)					|								|
+| [Heroku](https://www.heroku.com/)				|								|
+| [Github pages](https://pages.github.com/)			|								|
+| [Glitch](https://glitch.com/)					|								|
+| [Surge](https://surge.sh/)					|								|
 
 
 <hr />
@@ -376,7 +381,7 @@
 
 ## 📚 Books
 ### JavaScript
-- 🆓 [Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
+[Eloquent JavaScript 3rd edition](https://eloquentjavascript.net/00_intro.html)
 
 
 <hr />
@@ -387,10 +392,10 @@
 
 
 ## 👩🏻‍💻 Agile
-- 🆓💳 [Notion](www.notion.so)
-- 🆓💳 [MeisterTask](https://www.meistertask.com/)
-- 🆓💳 [Trello](https://trello.com/)
-- 🆓💳 [Asana](https://asana.com/)
+[Notion](www.notion.so)
+[MeisterTask](https://www.meistertask.com/)
+[Trello](https://trello.com/)
+[Asana](https://asana.com/)
 
 
 <hr />
@@ -401,7 +406,7 @@
 
 
 ## ⏳ Project management tool
-- 🆓💳 [Clickup](https://clickup.com/) - ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.
+[Clickup](https://clickup.com/) - ClickUp is a straightforward, user-friendly cloud-based collaboration and project management tool.
 
 
 <hr />
