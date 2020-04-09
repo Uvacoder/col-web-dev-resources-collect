@@ -162,6 +162,7 @@
 | [11 graphical JavaScript frameworks](https://www.creativebloq.com/amp/features/amazing-graphical-javascript-frameworks) | Framework |
 | [Unicode](https://home.unicode.org)					| Standard for Text and Emoji				      |
 
+
 ---
 
 | TypeScript								  |	About						      |
@@ -275,6 +276,7 @@
 | [Coolors](https://coolors.co/)				| The super fast color schemes generator!			       |
 | [CSS Gradient](https://cssgradient.io/)			| Nice css gradient						       |
 | [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) | curated color palette inspiration.			       |
+| [CSS Color W3C](https://drafts.csswg.org/css-color-5/)	| CSS Color Module Level 5 documentation			       |
 
 ---
 
