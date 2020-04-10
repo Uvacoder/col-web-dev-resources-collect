@@ -187,24 +187,17 @@
 | [Babeljs REPL](https://babeljs.io/en/repl)				| Transpiler es6 in es5 in real time			      |
 | [Insomnia](https://insomnia.rest/)					| Insomnia is a cross-platform GraphQL and REST client	      |
 
-
 ---
 
 | TypeScript			   				        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [TypeScript](https://www.typescriptlang.org/docs/home.html)		| TypeScript official documentation			      |
+| [TypeScript](https://www.typescriptlang.org/docs/home.html)		| TypeScript is a superset of JavaScript		      |
 
 ---
 
 | Dart				   				        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Dart](https://dart.dev/guides)					| Dar official documentation				      |
-
----
-
-| Sequelize			   				        |	About						      |
-| ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Sequelize](https://sequelize.org/)					| Sequelize ORM documentation			              |
+| [Dart](https://dart.dev/guides)					| Dart is a client-optimized language for fast apps on any platform |
 
 ---
 
@@ -223,13 +216,13 @@
 
 | Deno			   					        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Deno](https://deno.land/)						| runtime for JavaScript and TypeScript			      |
+| [Deno](https://deno.land/)						| Deno is a secure JavaScript and TypeScript runtime	      |
 
 ---
 
 | Nodejs		   					        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Node.js](https://nodejs.org/en/docs/)				| runtime for JavaScript				      |
+| [Node.js](https://nodejs.org/en/docs/)				| Is a Js runtime built on Chrome's V8 JavaScript engine      |
 
 ---
 
@@ -239,12 +232,18 @@
 
 ---
 
+| Sequelize			   				        |	About						      |
+| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| [Sequelize](https://sequelize.org/)					| Sequelize is a promise-based Node.js ORM for Postgres	      |
+
+---
+
 | Web library/framework		  				        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Reactjs](https://reactjs.org/docs/getting-started.html)		|							      |
-| [Gatsby.js](https://www.gatsbyjs.org/docs/)				|							      |
-| [Vue.js](https://vuejs.org/)						|							      |
-| [Angular](https://angular.io/)					|							      |	
+| [React](https://reactjs.org/docs/getting-started.html)		| React is JavaScript library for building user interfaces    |
+| [Gatsby](https://www.gatsbyjs.org/docs/)				| Blazing fast modern site generator for React		      |
+| [Vue](https://vuejs.org/)						| Vue.js is an Progressive JavaScript Framework		      |
+| [Angular](https://angular.io/)					| Angular is a platform for building mobile and desktop web applications|	
 
 ---
 
@@ -259,14 +258,6 @@
 | ------------------------------------------------------------------------------|-----------------------------------------------------|
 | [Jest](https://jestjs.io/docs/en/getting-started.html)			|						      |
 | [Mocha](https://mochajs.org/)							|						      |
-
----
-
-| Mobile framework						  	        | About						      |
-| ------------------------------------------------------------------------------|-----------------------------------------------------|
-| [Expo](https://docs.expo.io/versions/latest/)					|						      |
-| [React Native](https://facebook.github.io/react-native/docs/getting-started)	|						      |
-| [Flutter](https://flutter.dev/docs)						|						      |
 
 ---
 
@@ -296,7 +287,7 @@
 
 ---
 
-| UI - CSS/HTML/LIBS            		              |	About	                   	                                       |
+| UI Libs		            		              |	About	                   	                                       |
 | ------------------------------------------------------------|------------------------------------------------------------------------|
 | [Material-UI](https://material-ui.com/getting-started/installation/)		|					               |
 | [reactstrap](https://reactstrap.github.io/)					|					               |
@@ -398,6 +389,19 @@
 | [npms](https://npms.io/) 					| A better and open source search for node packages		       |
 | [Bundlephobia](https://bundlephobia.com/)			| Find the cost of adding a npm package to your bundle		       |
 | [runpkg](https://www.runpkg.com/)				| Nice search for and select a package to explore its contents	       |
+
+<hr />
+
+↑ [back to top](#resources)
+
+<hr />
+
+#### Mobile
+| Mobile framework's						  	        | About						      |
+| ------------------------------------------------------------------------------|-----------------------------------------------------|
+| [Expo](https://docs.expo.io/versions/latest/)					|						      |
+| [React Native](https://facebook.github.io/react-native/docs/getting-started)	|						      |
+| [Flutter](https://flutter.dev/docs)						|						      |
 
 <hr />
 
