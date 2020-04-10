@@ -176,9 +176,17 @@
 
 #### 🌐 Web Development
 
-| Docs				   				        |	About						      |
+| Useful Tools for developers				   	        |	About						      |
 | ----------------------------------------------------------------------|-------------------------------------------------------------| 
-| [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | JavaScript/ECMAScript documentation by Mozilla    |
+| [Bit.dev](https://bit.dev/)						| Share components for all developers		              |
+| [Storybook](https://storybook.js.org/)				| Create and test components in isolation		      |
+| [Can I use](https://caniuse.com/#home)			        | "Can I use" provides up-to-date browser support             |
+| [Unminify](https://unminify.com/)					| Free online tool to unminify JavaScript, CSS and HTML code  |
+| [Stackblitz](https://stackblitz.com/)					| Create, edit & deploy fullstack apps — in just one click    |
+| [Bundlephobia](https://bundlephobia.com/)				| Find the cost of adding a npm package to your bundle	      |
+| [Babeljs REPL](https://babeljs.io/en/repl)				| Transpiler es6 in es5 in real time			      |
+| [Insomnia](https://insomnia.rest/)					| Insomnia is a cross-platform GraphQL and REST client	      |
+
 
 ---
 
@@ -207,7 +215,8 @@
 ---
 
 | JavaScript			   				        |	About						      |
-| ----------------------------------------------------------------------|-------------------------------------------------------------| 
+| ----------------------------------------------------------------------|-------------------------------------------------------------|
+| [Mozilla - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | JavaScript/ECMAScript documentation by Mozilla    |
 | [Patterns](http://jstherightway.org/#patterns)			| Universal patterns for JavaScript			      |
 
 ---
@@ -375,7 +384,6 @@
 | [CSS autoprefixer library](https://github.com/postcss/autoprefixer) | Autoprefixer will use the data based on current browser        |
 | [Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/) | Creating Non-Rectangular Headers	       | 
 | [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp) | CSS Selector Reference w3schools                               |
-| [Can I use](https://caniuse.com/#home)			      | "Can I use" provides up-to-date browser support                |
 
 ---
 
