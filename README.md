@@ -39,8 +39,8 @@
 |----------------------------------------------------------------|--------------------------------------------------------------|
 | [HackerRank](https://www.hackerrank.com/) 			 | Algorithms and solve challenges				|
 | [Udemy](https://www.udemy.com/)				 | Udemy is a marketplace for teaching and learning 		|
-| [Hackr.io](https://hackr.io/)				 	 |								|
-| [Coderbyte](https://coderbyte.com/)			 	 |								|
+| [Hackr.io](https://hackr.io/)				 	 | Find the Best Programming Courses & Tutorials		|
+| [Coderbyte](https://coderbyte.com/)			 	 | Technical interview prep and coding challenges		|
 | [Udacity](https://www.udacity.com/)				 |								|
 | [freeCodeCamp](https://www.freecodecamp.org/)			 |								|
 | [Coursera](https://www.coursera.org/)				 |								|
