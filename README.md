@@ -385,6 +385,7 @@
 ---
 
 | __Minifier__						        | __About__                                                            |
+| ------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [HTMLMinifier](https://github.com/kangax/html-minifier)	| To minify HTML						       |
 | [CSSNano](https://github.com/ben-eb/cssnano) 			| To minify CSS							       |
 | [UglifyJS2](https://github.com/mishoo/UglifyJS2)		| To minify JavaScript						       |
