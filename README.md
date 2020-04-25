@@ -301,12 +301,17 @@
 
 | Colors            				                |	About	               	                                       |
 | --------------------------------------------------------------|----------------------------------------------------------------------|
-| [LCH Colour Picker](https://css.land/lch/)			| LCH Colour Picker
+| [Mycolor Space](https://mycolor.space/)			| Palettes, gradient, 3-color-gradient - favorite                      |
+| [UI Gradients](https://uigradients.com/)			| Beautiful colour gradients for design and code                       |
+| [WebGradients](https://webgradients.com/)                     | WebGradients is a free collection of 180 linear gradients            |
+| [Eggradients](https://www.eggradients.com/) 			| +200 gradient background color
+| [LCH Colour Picker](https://css.land/lch/)			| LCH Colour Picker						       |
 | [Piculiar](https://picular.co/)				| Google, but for colors					       |
 | [Coolors](https://coolors.co/)				| The super fast color schemes generator!			       |
 | [CSS Gradient](https://cssgradient.io/)			| Nice css gradient						       |
 | [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors/) | curated color palette inspiration.			       |
 | [CSS Color W3C](https://drafts.csswg.org/css-color-5/)	| CSS Color Module Level 5 documentation			       |
+| [HTML Colors and Tutorials](https://htmlcolors.com/)		| Get HEX code, RGB, RGBA, HSL and HSLA values, HSV, HWB and CMYK      |
 
 ---
 
