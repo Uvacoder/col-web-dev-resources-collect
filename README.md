@@ -35,30 +35,30 @@
 ---
 
 #### 🎬 Online Course Platforms
-| Plataform	 			  			 | About		  					|
-|----------------------------------------------------------------|--------------------------------------------------------------|
-| [HackerRank](https://www.hackerrank.com/) 			 | Algorithms and solve challenges				|
-| [Udemy](https://www.udemy.com/)				 | Udemy is a marketplace for teaching and learning 		|
-| [Hackr.io](https://hackr.io/)				 	 | Find the Best Programming Courses & Tutorials		|
-| [Coderbyte](https://coderbyte.com/)			 	 | Technical interview prep and coding challenges		|
-| [Udacity](https://www.udacity.com/)				 |								|
-| [freeCodeCamp](https://www.freecodecamp.org/)			 |								|
-| [Coursera](https://www.coursera.org/)				 |								|
-| [edX](https://www.edx.org/)					 |								|
-| [Codewars](https://www.codewars.com/)				 |								|
-| [Launch School Open Book Shelf](https://launchschool.com/books)|								|
-| [GA Dash](https://dash.generalassemb.ly/)			 |								|
-| [Codecademy](https://www.codecademy.com/)			 |								|
-| [The Odin Project](https://www.theodinproject.com/)		 |								|
-| [SoloLearn](https://www.sololearn.com/)			 |								|
-| [The Code Player](http://thecodeplayer.com/)			 |								|
-| [Bento.io](https://bento.io/)					 |								|
-| [Code.org](https://code.org/)					 |								|
-| [Scotch.io](https://scotch.io/courses/)			 |								|
-| [Khan Academy](https://www.khanacademy.org/)			 |								|
-| [W3Schools](https://www.w3schools.com/)			 |								|
-| [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)|								|
-| [Edabit](https://edabit.com/)					 |								|
+| Plataform	 			  			 | About		  					       |
+|----------------------------------------------------------------|---------------------------------------------------------------------|
+| [HackerRank](https://www.hackerrank.com/) 			 | Algorithms and solve challenges				       |
+| [Udemy](https://www.udemy.com/)				 | Udemy is a marketplace for teaching and learning 		       |
+| [Hackr.io](https://hackr.io/)				 	 | Find the Best Programming Courses & Tutorials		       |
+| [Coderbyte](https://coderbyte.com/)			 	 | Technical interview prep and coding challenges		       |
+| [Udacity](https://www.udacity.com/)				 | Online courses in programming, data science, AI, and more           |
+| [freeCodeCamp](https://www.freecodecamp.org/)			 | Learn to code at home. Build projects. Earn certifications          |
+| [Coursera](https://www.coursera.org/)				 | Coursera is an education platform				       |
+| [edX](https://www.edx.org/)					 | Access 2000 free online courses from 140 leading institutions       |
+| [Codewars](https://www.codewars.com/)				 | Codewars is where developers achieve code mastery through challenge |
+| [Launch School Open Book Shelf](https://launchschool.com/books)| Free books by Launch School 					       |
+| [GA Dash](https://dash.generalassemb.ly/)			 | Learn HTML, CSS, AND JAVASCRIPT				       |
+| [Codecademy](https://www.codecademy.com/)			 | Learn the technical skills you need for the job you want.	       |
+| [The Odin Project](https://www.theodinproject.com/)		 | The Odin Project empowers aspiring web developers to learn together |
+| [SoloLearn](https://www.sololearn.com/)			 | Learn to code for FREE				               |
+| [The Code Player](http://thecodeplayer.com/)			 | TheCodePlayer plays code like a video			       |
+| [Bento.io](https://bento.io/)					 | Learn to be a self-taught expert developer			       |
+| [Code.org](https://code.org/)					 |								       |
+| [Scotch.io](https://scotch.io/courses/)			 |								       |
+| [Khan Academy](https://www.khanacademy.org/)			 |								       |
+| [W3Schools](https://www.w3schools.com/)			 |								       |
+| [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)|								       |
+| [Edabit](https://edabit.com/)					 |								       |
 
 
 <hr />
