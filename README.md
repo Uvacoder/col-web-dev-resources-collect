@@ -70,12 +70,12 @@
 
 #### 🎬 Free Courses
 
-| Javascript											|	About			|
-| ----------------------------------------------------------------------------------------------|-------------------------------|
-| [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		|				|
-| [javascript for beginners (Codewars)](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) |				|
-| [Javascript30](https://javascript30.com/)							|				|
-| [Javascript (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	|				|
+| Javascript											|	About			       |
+| ----------------------------------------------------------------------------------------------|--------------------------------------|
+| [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		| Introdução JavaScript by Rocketseat  |
+| [javascript for beginners (Codewars)](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) |Training JS by myjinxin2015 | Codewars|
+| [Javascript30](https://javascript30.com/)							| 30 day vanilla js by Wes Bos	       |
+| [Javascript (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	| ECMAScript es6 by Rocketseat	       |
 
 ---
 
