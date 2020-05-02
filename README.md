@@ -53,12 +53,12 @@
 | [SoloLearn](https://www.sololearn.com/)			 | Learn to code for FREE				               |
 | [The Code Player](http://thecodeplayer.com/)			 | TheCodePlayer plays code like a video			       |
 | [Bento.io](https://bento.io/)					 | Learn to be a self-taught expert developer			       |
-| [Code.org](https://code.org/)					 |								       |
-| [Scotch.io](https://scotch.io/courses/)			 |								       |
-| [Khan Academy](https://www.khanacademy.org/)			 |								       |
-| [W3Schools](https://www.w3schools.com/)			 |								       |
-| [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/)|								       |
-| [Edabit](https://edabit.com/)					 |								       |
+| [Code.org](https://code.org/)					 | Is a nonprofit dedicated to expanding access to computer science... |
+| [Scotch.io](https://scotch.io/courses/)     |Top shelf learning. Dev tutorials explaining the code and the choices behind it all     |
+| [KhanAcademy](https://www.khanacademy.org/) |Nonprofit with the mission to provide a free, world-class education for anyone, anywhere|
+| [W3Schools](https://www.w3schools.com/)     | W3Schools is an educational website for learning web technologies online	       |
+| [Microsoft Virtual Academy](https://docs.microsoft.com/en-us/learn/) | Azure, Devops, Machine Learning and AI courses by Microsoft   |
+| [Edabit](https://edabit.com/)		                          | Learn to code with interactive challenges   		       |
 
 
 <hr />
