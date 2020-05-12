@@ -130,6 +130,7 @@
 | [Overreacted](https://overreacted.io/)			| Personal blog by Dan Abramov	                              |
 | [JavaScript January](https://www.javascriptjanuary.com/)	| Collection of blogs and tutorials on JavaScript	      |
 | [David Walsh](https://davidwalsh.name/) 			| JavaScript, Node.js, JQuery, React.js and more...	      |
+| [Leerob](https://leerob.io/blog)				| Web development posts					      |
 | [SitePoint](https://www.sitepoint.com/blog/) 			| Programming, web development, entrepreneurship and more...  |
 | [A List Apart](https://alistapart.com/blog/topic/code/) 	| Programming and development/design blog		      |
 | [CSS-Tricks](https://css-tricks.com/) 			| Web develpment blog	     				      |
