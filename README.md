@@ -74,27 +74,27 @@
 | ----------------------------------------------------------------------------------------------|--------------------------------------|
 | [Javascript - Rocketseat](https://skylab.rocketseat.com.br/node/curso-java-script)		| Learn with introduction courses for basics of javascript programming by Rocketseat  |
 | [javascript for beginners (Codewars)](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8) |Training JS by myjinxin2015 | Codewars|
-| [Javascript30](https://javascript30.com/)							| 30 day vanilla js by Wes Bos	       |
+| [Javascript30](https://javascript30.com/)							| Free 30 day vanilla JS Course by Wes Bos|
 | [Javascript (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-java-script-es-6)	| Learn features of ECMAScript es6 by Rocketseat	       |
 
 ---
 
-| Nodejs											|	About			|
-| ----------------------------------------------------------------------------------------------|-------------------------------|
-| [Node.js (NodeBR)](https://treinamento.nodebr.org/)						|				|
-| [Node.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-node-js)			|				|
+| Nodejs											|	About			    				      |
+| ----------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| [Node.js (NodeBR)](https://treinamento.nodebr.org/)						| Node.js para Iniciantes By #NodeB!                                  |
+| [Node.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-node-js)			| Curso iniciante de Node.js, o curso aborda assuntos como API e CRUD |
 
 ---
 
-| Reactjs											|	About			|
-| ----------------------------------------------------------------------------------------------|-------------------------------|
-| [React.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-js)			|				|
+| Reactjs											|	About			                                                              |
+| ----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| [React.js (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-js)			| Curso inicial de React.js, aprenda a criar componentes, buscar dados de APis e listar dados |
 
 ---
 
-| React Native											|	About			|
-| ----------------------------------------------------------------------------------------------|-------------------------------|
-| [React Native (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-native)		|				|
+| React Native											|	About			                                                                                              |
+| ----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [React Native (Rocketseat)](https://skylab.rocketseat.com.br/node/curso-react-native)		| O curso de React Native aborda os conceitos de componentização, states, webview entre outro conceito para aplicar no mobile |
  
  
 <hr />
@@ -113,7 +113,8 @@
 | [Firecode.io](https://www.firecode.io/)				| 							      |
 | [LeetCode](https://leetcode.com/)					| Level up your coding skills				      |
 | [Edabit](https://edabit.com/)						|							      |
-| [RealDev](https://real.dev)						| challenge developers with real-life coding tasks	      |	| [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)		| competitive programmers				      |
+| [RealDev](https://real.dev)						| challenge developers with real-life coding tasks	      |
+| [TopCoder](https://www.topcoder.com/challenges/?pageIndex=1)		| competitive programmers				      |
 | [Exercism.io](https://exercism.io/) 					| Level up your programming skills			      |
 
 <hr>
@@ -278,6 +279,7 @@
 | [Badgen](https://badgen.net/)				      | Fast badge generating service					       |
 | [Shields](https://shields.io/)			      | Fast and scalable informational images as badges for GitHub            |
 | [BeautifyTools](http://beautifytools.com/)                  | A collection of free online tools for users and developers  	       |
+| [Snippet Generator](https://snippet-generator.app/)         | Snippet generator for Visual Studio Code, Sublime Text and Atom        |
 
 ---
 
